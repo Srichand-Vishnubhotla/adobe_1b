@@ -1,0 +1,1939 @@
+{
+  "metadata": {
+    "input_documents": [
+      "South of France - Cuisine.pdf"
+    ],
+    "persona": "",
+    "job_to_be_done": "",
+    "processing_timestamp": "2025-07-28T14:33:32.911409"
+  },
+  "extracted_sections": [
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 1,
+      "section_title": "A Culinary Journey Through the South of France",
+      "importance_rank": 1
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 1,
+      "section_title": "Introduction",
+      "importance_rank": 2
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 1,
+      "section_title": "The South of France, known for its stunning landscapes and charming villages, is also a",
+      "importance_rank": 3
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 1,
+      "section_title": "paradise for food lovers. The region's cuisine is a delightful blend of Mediterranean flavors,",
+      "importance_rank": 4
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 1,
+      "section_title": "fresh ingredients, and traditional recipes passed down through generations. This guide will",
+      "importance_rank": 5
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 1,
+      "section_title": "take you through the diﬀerent types of food, famous dishes, must-visit restaurants, renowned",
+      "importance_rank": 6
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 1,
+      "section_title": "wine regions, and the types of wines they produce to help you plan an unforgettable culinary",
+      "importance_rank": 7
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 2,
+      "section_title": "Types of Food",
+      "importance_rank": 8
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 2,
+      "section_title": "The cuisine in the South of France is diverse, reflecting the region's rich history and cultural",
+      "importance_rank": 9
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 2,
+      "section_title": "influences. Here are some key types of food you can expect to find:",
+      "importance_rank": 10
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 2,
+      "section_title": "Seafood: With its extensive coastline, the South of France oﬀers an abundance of fresh",
+      "importance_rank": 11
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 2,
+      "section_title": "bass, and mussels marinière. The region's proximity to the Mediterranean Sea ensures",
+      "importance_rank": 12
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 2,
+      "section_title": "that the seafood is always fresh and flavorful.",
+      "importance_rank": 13
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 2,
+      "section_title": "Provençal Cuisine: This style of cooking emphasizes fresh vegetables, herbs, and olive",
+      "importance_rank": 14
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 2,
+      "section_title": "oil. Ratatouille, a vegetable stew, and bouillabaisse, a fish soup, are quintessential",
+      "importance_rank": 15
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 2,
+      "section_title": "Provençal dishes. Provençal cuisine also includes dishes like tapenade, a spread made",
+      "importance_rank": 16
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 2,
+      "section_title": "from olives, capers, and anchovies, and pissaladière, a savory tart topped with",
+      "importance_rank": 17
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 2,
+      "section_title": "caramelized onions, olives, and anchovies.",
+      "importance_rank": 18
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 2,
+      "section_title": "Niçoise Cuisine: Originating from Nice, this cuisine includes dishes like Salade Niçoise,",
+      "importance_rank": 19
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 2,
+      "section_title": "a salad with tuna, olives, and anchovies, and Socca, a chickpea flour pancake. Other",
+      "importance_rank": 20
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 2,
+      "section_title": "Niçoise specialties include pan bagnat, a sandwich made with tuna, vegetables, and",
+      "importance_rank": 21
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 2,
+      "section_title": "olive oil, and daube, a slow-cooked beef stew with red wine and vegetables.",
+      "importance_rank": 22
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 2,
+      "section_title": "Occitan Cuisine: This cuisine features hearty dishes like cassoulet, a slow-cooked",
+      "importance_rank": 23
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 2,
+      "section_title": "casserole with beans, sausage, and duck, and aligot, a cheesy mashed potato dish.",
+      "importance_rank": 24
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 2,
+      "section_title": "spread.",
+      "importance_rank": 25
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 2,
+      "section_title": "Basque Cuisine: Influenced by neighboring Spain, Basque cuisine includes dishes like",
+      "importance_rank": 26
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 2,
+      "section_title": "piperade, a pepper and tomato stew, and axoa, a veal stew with peppers. Basque",
+      "importance_rank": 27
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 2,
+      "section_title": "cuisine is also known for its pintxos, small snacks typically served in bars, and gâteau",
+      "importance_rank": 28
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 3,
+      "section_title": "Famous Dishes",
+      "importance_rank": 29
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 3,
+      "section_title": "The South of France is home to many iconic dishes that you must try during your visit:",
+      "importance_rank": 30
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 3,
+      "section_title": "Bouillabaisse: A traditional fish stew from Marseille, made with various types of fish,",
+      "importance_rank": 31
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 3,
+      "section_title": "shellfish, and a flavorful broth seasoned with saﬀron and herbs. Bouillabaisse is",
+      "importance_rank": 32
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 3,
+      "section_title": "typically served with rouille, a garlicky mayonnaise, and crusty bread. The dish is a",
+      "importance_rank": 33
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 3,
+      "section_title": "celebration of the sea and is best enjoyed in a seaside restaurant with a view of the",
+      "importance_rank": 34
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 3,
+      "section_title": "Mediterranean.",
+      "importance_rank": 35
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 3,
+      "section_title": "Ratatouille: A vegetable stew made with eggplant, zucchini, bell peppers, tomatoes,",
+      "importance_rank": 36
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 3,
+      "section_title": "testament to the region's love for fresh, seasonal produce.",
+      "importance_rank": 37
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 3,
+      "section_title": "Salade Niçoise: A refreshing salad with tuna, hard-boiled eggs, tomatoes, green beans,",
+      "importance_rank": 38
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 3,
+      "section_title": "olives, and anchovies, dressed with olive oil and vinegar. Salade Niçoise is a perfect",
+      "importance_rank": 39
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 3,
+      "section_title": "example of the Mediterranean diet, which emphasizes fresh vegetables, lean proteins,",
+      "importance_rank": 40
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 3,
+      "section_title": "and healthy fats. It's a light yet satisfying dish that is perfect for a warm summer day.",
+      "importance_rank": 41
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 3,
+      "section_title": "Socca: A thin, crispy pancake made from chickpea flour, olive oil, and water, typically",
+      "importance_rank": 42
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 3,
+      "section_title": "enjoyed as a street food in Nice. Socca is cooked in a wood-fired oven and is best",
+      "importance_rank": 43
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 3,
+      "section_title": "eaten hot, straight from the oven. It's a simple yet delicious snack that showcases the",
+      "importance_rank": 44
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 3,
+      "section_title": "region's love for humble, rustic dishes.",
+      "importance_rank": 45
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 3,
+      "section_title": "Cassoulet: A hearty casserole from the Languedoc region, made with white beans,",
+      "importance_rank": 46
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 3,
+      "section_title": "sausage, and duck or pork. Cassoulet is a labor of love, requiring hours of slow",
+      "importance_rank": 47
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 3,
+      "section_title": "cooking to develop its rich, complex flavors. The dish is a comforting and satisfying",
+      "importance_rank": 48
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 3,
+      "section_title": "meal that is perfect for a chilly evening.",
+      "importance_rank": 49
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 3,
+      "section_title": "perfect for a special occasion or as an indulgent afternoon snack. The dessert was",
+      "importance_rank": 50
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 3,
+      "section_title": "created by a Polish baker in the 1950s and quickly became a favorite among locals and",
+      "importance_rank": 51
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 4,
+      "section_title": "Must-Visit Restaurants",
+      "importance_rank": 52
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 4,
+      "section_title": "To truly experience the culinary delights of the South of France, here are some restaurants",
+      "importance_rank": 53
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 4,
+      "section_title": "you should consider visiting:",
+      "importance_rank": 54
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 4,
+      "section_title": "Le Petit Nice Passedat (Marseille): A three-Michelin-starred restaurant oﬀering",
+      "importance_rank": 55
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 4,
+      "section_title": "exquisite seafood dishes and stunning views of the Mediterranean. Chef Gérald",
+      "importance_rank": 56
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 4,
+      "section_title": "Passedat is known for his innovative approach to seafood, creating dishes that are",
+      "importance_rank": 57
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 4,
+      "section_title": "both visually stunning and incredibly flavorful. The restaurant's location on the cliﬀs",
+      "importance_rank": 58
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 4,
+      "section_title": "overlooking the sea adds to the overall dining experience.",
+      "importance_rank": 59
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 4,
+      "section_title": "La Chèvre d'Or (Èze): Located in a medieval village, this two-Michelin-starred",
+      "importance_rank": 60
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 4,
+      "section_title": "restaurant serves refined Provençal cuisine with breathtaking views of the French",
+      "importance_rank": 61
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 4,
+      "section_title": "region's fresh, seasonal ingredients.",
+      "importance_rank": 62
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 4,
+      "section_title": "Le Mirazur (Menton): Ranked among the world's best restaurants, Le Mirazur oﬀers a",
+      "importance_rank": 63
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 4,
+      "section_title": "unique dining experience with a focus on fresh, local ingredients and innovative",
+      "importance_rank": 64
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 4,
+      "section_title": "dishes. Chef Mauro Colagreco's cuisine is inspired by the surrounding landscape, with",
+      "importance_rank": 65
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 4,
+      "section_title": "many ingredients sourced from the restaurant's own gardens. The menu changes with",
+      "importance_rank": 66
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 4,
+      "section_title": "the seasons, ensuring that each visit is a new and exciting experience.",
+      "importance_rank": 67
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 4,
+      "section_title": "Chez Pipo (Nice): A local favorite for Socca, this casual eatery is perfect for a quick and",
+      "importance_rank": 68
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 4,
+      "section_title": "delicious snack. Chez Pipo has been serving Socca since 1923 and is a beloved",
+      "importance_rank": 69
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 4,
+      "section_title": "institution in Nice. The restaurant's simple, no-frills approach allows the quality of the",
+      "importance_rank": 70
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 4,
+      "section_title": "Socca to shine through.",
+      "importance_rank": 71
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 4,
+      "section_title": "L'Atelier de Jean-Luc Rabanel (Arles): A Michelin-starred restaurant known for its",
+      "importance_rank": 72
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 4,
+      "section_title": "creative and contemporary take on Provençal cuisine. Chef Jean-Luc Rabanel's dishes",
+      "importance_rank": 73
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 4,
+      "section_title": "are a feast for the senses, combining bold flavors with artistic presentation. The",
+      "importance_rank": 74
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 4,
+      "section_title": "La Table de Plaisance (Saint-Émilion): A two-Michelin-starred restaurant oﬀering a",
+      "importance_rank": 75
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 4,
+      "section_title": "sophisticated menu that highlights the flavors of the region. The restaurant is located",
+      "importance_rank": 76
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 4,
+      "section_title": "in a historic building in the heart of Saint-Émilion, a town known for its world-class",
+      "importance_rank": 77
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 4,
+      "section_title": "wines. The menu features dishes that pair beautifully with the local wines, creating a",
+      "importance_rank": 78
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 5,
+      "section_title": "Wine Regions and Types of Wines",
+      "importance_rank": 79
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 5,
+      "section_title": "The South of France is renowned for its diverse and exceptional wine regions. Here are some",
+      "importance_rank": 80
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 5,
+      "section_title": "key areas to explore and the types of wines they produce:",
+      "importance_rank": 81
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 5,
+      "section_title": "Provence: Famous for its rosé wines, Provence is one of the oldest wine-producing",
+      "importance_rank": 82
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 5,
+      "section_title": "regions in France. The region's sunny climate and diverse terroir contribute to the",
+      "importance_rank": 83
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 5,
+      "section_title": "production of light, refreshing rosés, as well as robust reds and aromatic whites. Key",
+      "importance_rank": 84
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 5,
+      "section_title": "appellations include Côtes de Provence, Bandol, and Cassis. Notable grape varieties",
+      "importance_rank": 85
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 5,
+      "section_title": "include Grenache, Syrah, Mourvèdre, and Cinsault for reds and rosés, and Rolle",
+      "importance_rank": 86
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 5,
+      "section_title": "known for its variety of wine styles. Languedoc-Roussillon produces everything from",
+      "importance_rank": 87
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 5,
+      "section_title": "crisp whites and fruity rosés to full-bodied reds. Notable appellations include",
+      "importance_rank": 88
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 5,
+      "section_title": "Corbières, Minervois, and Picpoul de Pinet. Key grape varieties include Carignan,",
+      "importance_rank": 89
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 5,
+      "section_title": "Grenache, Syrah, and Mourvèdre for reds, and Picpoul, Marsanne, and Roussanne for",
+      "importance_rank": 90
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 5,
+      "section_title": "whites.",
+      "importance_rank": 91
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 5,
+      "section_title": "Rhône Valley: The southern part of the Rhône Valley is famous for its powerful red",
+      "importance_rank": 92
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 5,
+      "section_title": "wines, particularly those from Châteauneuf-du-Pape. The region also produces",
+      "importance_rank": 93
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 5,
+      "section_title": "excellent whites and rosés. Other important appellations include Gigondas,",
+      "importance_rank": 94
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 5,
+      "section_title": "Vacqueyras, and Côtes du Rhône. Key grape varieties include Grenache, Syrah, and",
+      "importance_rank": 95
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 5,
+      "section_title": "Mourvèdre for reds, and Viognier, Marsanne, and Roussanne for whites.",
+      "importance_rank": 96
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 5,
+      "section_title": "South West France (Sud-Ouest): This lesser-known region is home to a variety of",
+      "importance_rank": 97
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 5,
+      "section_title": "unique wines made from indigenous grape varieties. The area includes sub-regions",
+      "importance_rank": 98
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 5,
+      "section_title": "such as Bergerac, Cahors, and Madiran. South West France is known for its robust reds,",
+      "importance_rank": 99
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 5,
+      "section_title": "Colombard for whites.",
+      "importance_rank": 100
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 5,
+      "section_title": "Corsica: Although technically an island, Corsica is often included in discussions of",
+      "importance_rank": 101
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 5,
+      "section_title": "Southern French wine regions. The island's diverse terroir and Mediterranean climate",
+      "importance_rank": 102
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 5,
+      "section_title": "produce a range of wines, including crisp whites, fruity rosés, and spicy reds. Key",
+      "importance_rank": 103
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 5,
+      "section_title": "appellations include Ajaccio, Patrimonio, and Vin de Corse. Notable grape varieties",
+      "importance_rank": 104
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 6,
+      "section_title": "Culinary Experiences",
+      "importance_rank": 105
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 6,
+      "section_title": "In addition to dining at top restaurants, there are several culinary experiences you should",
+      "importance_rank": 106
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 6,
+      "section_title": "consider:",
+      "importance_rank": 107
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 6,
+      "section_title": "Cooking Classes: Many towns and cities in the South of France oﬀer cooking classes",
+      "importance_rank": 108
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 6,
+      "section_title": "where you can learn to prepare traditional dishes like bouillabaisse, ratatouille, and",
+      "importance_rank": 109
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 6,
+      "section_title": "tarte tropézienne. These classes are a great way to immerse yourself in the local",
+      "importance_rank": 110
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 6,
+      "section_title": "Food Markets: Visit local markets such as the Cours Saleya Market in Nice or the",
+      "importance_rank": 111
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 6,
+      "section_title": "Marché Forville in Cannes to sample fresh produce, cheeses, and charcuterie. These",
+      "importance_rank": 112
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 6,
+      "section_title": "markets are a feast for the senses, with stalls overflowing with colorful fruits and",
+      "importance_rank": 113
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 6,
+      "section_title": "vegetables, fragrant herbs, and artisanal products. Take the time to chat with the",
+      "importance_rank": 114
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 6,
+      "section_title": "vendors and learn about the local specialties.",
+      "importance_rank": 115
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 6,
+      "section_title": "Wine Tours: The South of France is renowned for its wine regions, including Provence",
+      "importance_rank": 116
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 6,
+      "section_title": "and Languedoc. Take a wine tour to visit vineyards, taste local wines, and learn about",
+      "importance_rank": 117
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 6,
+      "section_title": "the winemaking process. Many wineries oﬀer guided tours and tastings, giving you the",
+      "importance_rank": 118
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 6,
+      "section_title": "opportunity to sample a variety of wines and discover new favorites. Don't miss the",
+      "importance_rank": 119
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 6,
+      "section_title": "chance to try rosé from Provence, which is famous for its light, refreshing flavor.",
+      "importance_rank": 120
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 6,
+      "section_title": "Olive Oil Tasting: The region is famous for its olive oil. Visit an olive grove to learn",
+      "importance_rank": 121
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 6,
+      "section_title": "about olive oil production and enjoy a tasting session. You'll have the chance to",
+      "importance_rank": 122
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 6,
+      "section_title": "make great souvenirs.",
+      "importance_rank": 123
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 6,
+      "section_title": "Truﬄe Hunting: The South of France is known for its truﬄes, particularly the black",
+      "importance_rank": 124
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 6,
+      "section_title": "truﬄes from the Périgord region. Join a truﬄe hunting tour to experience the thrill of",
+      "importance_rank": 125
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 6,
+      "section_title": "searching for these prized fungi. You'll be accompanied by a trained truﬄe dog and a",
+      "importance_rank": 126
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 6,
+      "section_title": "knowledgeable guide who will teach you about the truﬄe's history and culinary uses.",
+      "importance_rank": 127
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 6,
+      "section_title": "After the hunt, enjoy a truﬄe-themed meal featuring your freshly harvested finds.",
+      "importance_rank": 128
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 6,
+      "section_title": "Farm-to-Table Dining: Many restaurants in the South of France embrace the farm-to-",
+      "importance_rank": 129
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 6,
+      "section_title": "table philosophy, sourcing their ingredients from local farms and producers. Look for",
+      "importance_rank": 130
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 6,
+      "section_title": "restaurants that highlight seasonal, locally grown produce and sustainably raised",
+      "importance_rank": 131
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 6,
+      "section_title": "meats. Dining at a farm-to-table restaurant is a wonderful way to support local",
+      "importance_rank": 132
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 7,
+      "section_title": "Cheese Tasting: The South of France is home to a variety of delicious cheeses,",
+      "importance_rank": 133
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 7,
+      "section_title": "producers oﬀer tours and tastings, giving you the opportunity to discover the unique",
+      "importance_rank": 134
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 7,
+      "section_title": "flavors and textures of the region's cheeses.",
+      "importance_rank": 135
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 7,
+      "section_title": "Pastry Workshops: French pastries are renowned worldwide, and the South of France",
+      "importance_rank": 136
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 7,
+      "section_title": "is no exception. Join a pastry workshop to learn how to make classic French pastries",
+      "importance_rank": 137
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 7,
+      "section_title": "like croissants, éclairs, and macarons. These workshops are a fun and interactive way",
+      "importance_rank": 138
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 8,
+      "section_title": "Conclusion",
+      "importance_rank": 139
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 8,
+      "section_title": "The South of France oﬀers a rich and diverse culinary landscape that is sure to delight any",
+      "importance_rank": 140
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 8,
+      "section_title": "food lover. From fresh seafood and Provençal dishes to iconic restaurants and unique culinary",
+      "importance_rank": 141
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 8,
+      "section_title": "experiences, there is something for everyone to enjoy. Whether you're savoring a bowl of",
+      "importance_rank": 142
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 8,
+      "section_title": "bouillabaisse by the sea, exploring vibrant food markets, or indulging in a Michelin-starred",
+      "importance_rank": 143
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 8,
+      "section_title": "meal, the flavors of this beautiful region will leave a lasting impression. Use this guide to plan",
+      "importance_rank": 144
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 2,
+      "section_title": "seafood. Look for dishes featuring fish, shellfish, and crustaceans, often prepared with",
+      "importance_rank": 145
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 2,
+      "section_title": "Mediterranean herbs and olive oil. Popular seafood dishes include grilled sardines, sea",
+      "importance_rank": 146
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 2,
+      "section_title": "Occitan cuisine also includes dishes like garbure, a thick soup made with cabbage,",
+      "importance_rank": 147
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 2,
+      "section_title": "beans, and confit de canard (duck confit), and brandade de morue, a creamy salt cod",
+      "importance_rank": 148
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 3,
+      "section_title": "and onions, seasoned with herbs de Provence. Ratatouille can be served as a main",
+      "importance_rank": 149
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 3,
+      "section_title": "dish or as a side, and it pairs beautifully with grilled meats or fish. The dish is a",
+      "importance_rank": 150
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 3,
+      "section_title": "Tarte Tropézienne: A dessert from Saint-Tropez, consisting of a brioche filled with a",
+      "importance_rank": 151
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 3,
+      "section_title": "creamy mixture of pastry cream and butter. Tarte Tropézienne is a sweet treat that is",
+      "importance_rank": 152
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 4,
+      "section_title": "Riviera. The restaurant's terrace oﬀers panoramic views of the Mediterranean, making",
+      "importance_rank": 153
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 4,
+      "section_title": "it the perfect spot for a romantic dinner. The menu features dishes that highlight the",
+      "importance_rank": 154
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 4,
+      "section_title": "restaurant's tasting menu oﬀers a journey through the flavors of Provence, with each",
+      "importance_rank": 155
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 4,
+      "section_title": "course showcasing the region's finest ingredients.",
+      "importance_rank": 156
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 5,
+      "section_title": "(Vermentino) and Clairette for whites.",
+      "importance_rank": 157
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 5,
+      "section_title": "Languedoc-Roussillon: This vast region stretches along the Mediterranean coast and is",
+      "importance_rank": 158
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 5,
+      "section_title": "aromatic whites, and sweet dessert wines. Key grape varieties include Malbec (known",
+      "importance_rank": 159
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 5,
+      "section_title": "locally as Côt), Tannat, and Négrette for reds, and Gros Manseng, Petit Manseng, and",
+      "importance_rank": 160
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 6,
+      "section_title": "culture and gain hands-on experience with regional recipes. Some classes even",
+      "importance_rank": 161
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 6,
+      "section_title": "include a visit to a local market to shop for fresh ingredients.",
+      "importance_rank": 162
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 6,
+      "section_title": "sample diﬀerent varieties of olive oil and learn about the nuances of flavor and aroma.",
+      "importance_rank": 163
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 6,
+      "section_title": "Many olive groves also produce other products like tapenade and olive soap, which",
+      "importance_rank": 164
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 7,
+      "section_title": "including Roquefort, Banon, and Picodon. Visit a local fromagerie (cheese shop) or a",
+      "importance_rank": 165
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 7,
+      "section_title": "farm to sample these cheeses and learn about their production. Many cheese",
+      "importance_rank": 166
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 8,
+      "section_title": "your culinary journey and savor the tastes of the South of France, creating memories that will",
+      "importance_rank": 167
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 8,
+      "section_title": "linger long after your trip has ended. Bon appétit!",
+      "importance_rank": 168
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 7,
+      "section_title": "to improve your baking skills and take home some delicious treats.",
+      "importance_rank": 169
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 6,
+      "section_title": "agriculture and enjoy the freshest ingredients available.",
+      "importance_rank": 170
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 4,
+      "section_title": "truly memorable dining experience.",
+      "importance_rank": 171
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 1,
+      "section_title": "adventure.",
+      "importance_rank": 172
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 3,
+      "section_title": "tourists alike.",
+      "importance_rank": 173
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 2,
+      "section_title": "Basque, a traditional Basque cake filled with pastry cream or cherry jam.",
+      "importance_rank": 174
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 5,
+      "section_title": "include Nielluccio (Sangiovese), Sciacarello, and Vermentino.",
+      "importance_rank": 175
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "Conclusion \nThe South of France oﬀers a rich and diverse culinary landscape that is sure to delight any \nfood lover. From fresh seafood and Provençal dishes to iconic restaurants and unique culinary \nexperiences, there is something for everyone to enjoy. Whether you're savoring a bowl of \nbouillabaisse by the sea, exploring vibrant food markets, or indulging in a Michelin-starred \nmeal, the flavors of this beautiful region will leave a lasting impression. Use this guide to plan \nyour culinary journey and savor the tastes of the South of France, creating memories that will \nlinger long after your trip has ended. Bon appétit!",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "• \nCheese Tasting: The South of France is home to a variety of delicious cheeses, \nincluding Roquefort, Banon, and Picodon. Visit a local fromagerie (cheese shop) or a \nfarm to sample these cheeses and learn about their production. Many cheese \nproducers oﬀer tours and tastings, giving you the opportunity to discover the unique \nflavors and textures of the region's cheeses. \n• \nPastry Workshops: French pastries are renowned worldwide, and the South of France \nis no exception. Join a pastry workshop to learn how to make classic French pastries \nlike croissants, éclairs, and macarons. These workshops are a fun and interactive way \nto improve your baking skills and take home some delicious treats.",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "Culinary Experiences In addition to dining at top restaurants, there are several culinary experiences you should consider: • Cooking Classes: Many towns and cities in the South of France oﬀer cooking classes where you can learn to prepare traditional dishes like bouillabaisse, ratatouille, and tarte tropézienne. These classes are a great way to immerse yourself in the local culture and gain hands-on experience with regional recipes. Some classes even include a visit to a local market to shop for fresh ingredients. • Food Markets: Visit local markets such as the Cours Saleya Market in Nice or the Marché Forville in Cannes to sample fresh produce, cheeses, and charcuterie. These markets are a feast for the senses, with stalls overflowing with colorful fruits and vegetables, fragrant herbs, and artisanal products. Take the time to chat with the vendors and learn about the local specialties. • Wine Tours: The South of France is renowned for its wine regions, including Provence and Languedoc. Take a wine tour to visit vineyards, taste local wines, and learn about the winemaking process. Many wineries oﬀer guided tours and tastings, giving you the opportunity to sample a variety of wines and discover new favorites. Don't miss the chance to try rosé from Provence, which is famous for its light, refreshing flavor. • Olive Oil Tasting: The region is famous for its olive oil. Visit an olive grove to learn about olive oil production and enjoy a tasting session. You'll have the chance to sample diﬀerent varieties of olive oil and learn about the nuances of flavor and aroma. Many olive groves also produce other products like tapenade and olive soap, which make great souvenirs. • Truﬄe Hunting: The South of France is known for its truﬄes, particularly the black truﬄes from the Périgord region. Join a truﬄe",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "Must-Visit Restaurants To truly experience the culinary delights of the South of France, here are some restaurants you should consider visiting: • Le Petit Nice Passedat (Marseille): A three-Michelin-starred restaurant oﬀering exquisite seafood dishes and stunning views of the Mediterranean. Chef Gérald Passedat is known for his innovative approach to seafood, creating dishes that are both visually stunning and incredibly flavorful. The restaurant's location on the cliﬀs overlooking the sea adds to the overall dining experience. • La Chèvre d'Or (Èze): Located in a medieval village, this two-Michelin-starred restaurant serves refined Provençal cuisine with breathtaking views of the French Riviera. The restaurant's terrace oﬀers panoramic views of the Mediterranean, making it the perfect spot for a romantic dinner. The menu features dishes that highlight the region's fresh, seasonal ingredients. • Le Mirazur (Menton): Ranked among the world's best restaurants, Le Mirazur oﬀers a unique dining experience with a focus on fresh, local ingredients and innovative dishes. Chef Mauro Colagreco's cuisine is inspired by the surrounding landscape, with many ingredients sourced from the restaurant's own gardens. The menu changes with the seasons, ensuring that each visit is a new and exciting experience. • Chez Pipo (Nice): A local favorite for Socca, this casual eatery is perfect for a quick and delicious snack. Chez Pipo has been serving Socca since 1923 and is a beloved institution in Nice. The restaurant's simple, no-frills approach allows the quality of the Socca to shine through. • L'Atelier de Jean-Luc Rabanel (Arles): A Michelin-starred restaurant known for its creative and contemporary take on Provençal cuisine. Chef Jean-Luc Rabanel's dishes are a feast for the senses, combining bold flavors with artistic presentation. The restaurant's tasting menu oﬀers a journey through the flavors of Provence, with each course showcasing the region's finest ingredients. • La Table de Plaisance",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "A Culinary Journey Through the South of France \nIntroduction \nThe South of France, known for its stunning landscapes and charming villages, is also a \nparadise for food lovers. The region's cuisine is a delightful blend of Mediterranean flavors, \nfresh ingredients, and traditional recipes passed down through generations. This guide will \ntake you through the diﬀerent types of food, famous dishes, must-visit restaurants, renowned \nwine regions, and the types of wines they produce to help you plan an unforgettable culinary \nadventure.",
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "Famous Dishes The South of France is home to many iconic dishes that you must try during your visit: • Bouillabaisse: A traditional fish stew from Marseille, made with various types of fish, shellfish, and a flavorful broth seasoned with saﬀron and herbs. Bouillabaisse is typically served with rouille, a garlicky mayonnaise, and crusty bread. The dish is a celebration of the sea and is best enjoyed in a seaside restaurant with a view of the Mediterranean. • Ratatouille: A vegetable stew made with eggplant, zucchini, bell peppers, tomatoes, and onions, seasoned with herbs de Provence. Ratatouille can be served as a main dish or as a side, and it pairs beautifully with grilled meats or fish. The dish is a testament to the region's love for fresh, seasonal produce. • Salade Niçoise: A refreshing salad with tuna, hard-boiled eggs, tomatoes, green beans, olives, and anchovies, dressed with olive oil and vinegar. Salade Niçoise is a perfect example of the Mediterranean diet, which emphasizes fresh vegetables, lean proteins, and healthy fats. It's a light yet satisfying dish that is perfect for a warm summer day. • Socca: A thin, crispy pancake made from chickpea flour, olive oil, and water, typically enjoyed as a street food in Nice. Socca is cooked in a wood-fired oven and is best eaten hot, straight from the oven. It's a simple yet delicious snack that showcases the region's love for humble, rustic dishes. • Cassoulet: A hearty casserole from the Languedoc region, made with white beans, sausage, and duck or pork. Cassoulet is a labor of love, requiring hours of slow cooking to develop its rich, complex flavors. The dish is a comforting and satisfying meal that is perfect for a chilly evening. • Tarte Tropézienne: A dessert from Saint-Tropez, consisting of a brioche filled",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "Types of Food The cuisine in the South of France is diverse, reflecting the region's rich history and cultural influences. Here are some key types of food you can expect to find: • Seafood: With its extensive coastline, the South of France oﬀers an abundance of fresh seafood. Look for dishes featuring fish, shellfish, and crustaceans, often prepared with Mediterranean herbs and olive oil. Popular seafood dishes include grilled sardines, sea bass, and mussels marinière. The region's proximity to the Mediterranean Sea ensures that the seafood is always fresh and flavorful. • Provençal Cuisine: This style of cooking emphasizes fresh vegetables, herbs, and olive oil. Ratatouille, a vegetable stew, and bouillabaisse, a fish soup, are quintessential Provençal dishes. Provençal cuisine also includes dishes like tapenade, a spread made from olives, capers, and anchovies, and pissaladière, a savory tart topped with caramelized onions, olives, and anchovies. • Niçoise Cuisine: Originating from Nice, this cuisine includes dishes like Salade Niçoise, a salad with tuna, olives, and anchovies, and Socca, a chickpea flour pancake. Other Niçoise specialties include pan bagnat, a sandwich made with tuna, vegetables, and olive oil, and daube, a slow-cooked beef stew with red wine and vegetables. • Occitan Cuisine: This cuisine features hearty dishes like cassoulet, a slow-cooked casserole with beans, sausage, and duck, and aligot, a cheesy mashed potato dish. Occitan cuisine also includes dishes like garbure, a thick soup made with cabbage, beans, and confit de canard (duck confit), and brandade de morue, a creamy salt cod spread. • Basque Cuisine: Influenced by neighboring Spain, Basque cuisine includes dishes like piperade, a pepper and tomato stew, and axoa, a veal stew with peppers. Basque cuisine is also known for its pintxos, small snacks typically served in bars, and gâteau Basque, a traditional Basque cake filled with pastry",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "Wine Regions and Types of Wines The South of France is renowned for its diverse and exceptional wine regions. Here are some key areas to explore and the types of wines they produce: • Provence: Famous for its rosé wines, Provence is one of the oldest wine-producing regions in France. The region's sunny climate and diverse terroir contribute to the production of light, refreshing rosés, as well as robust reds and aromatic whites. Key appellations include Côtes de Provence, Bandol, and Cassis. Notable grape varieties include Grenache, Syrah, Mourvèdre, and Cinsault for reds and rosés, and Rolle (Vermentino) and Clairette for whites. • Languedoc-Roussillon: This vast region stretches along the Mediterranean coast and is known for its variety of wine styles. Languedoc-Roussillon produces everything from crisp whites and fruity rosés to full-bodied reds. Notable appellations include Corbières, Minervois, and Picpoul de Pinet. Key grape varieties include Carignan, Grenache, Syrah, and Mourvèdre for reds, and Picpoul, Marsanne, and Roussanne for whites. • Rhône Valley: The southern part of the Rhône Valley is famous for its powerful red wines, particularly those from Châteauneuf-du-Pape. The region also produces excellent whites and rosés. Other important appellations include Gigondas, Vacqueyras, and Côtes du Rhône. Key grape varieties include Grenache, Syrah, and Mourvèdre for reds, and Viognier, Marsanne, and Roussanne for whites. • South West France (Sud-Ouest): This lesser-known region is home to a variety of unique wines made from indigenous grape varieties. The area includes sub-regions such as Bergerac, Cahors, and Madiran. South West France is known for its robust reds, aromatic whites, and sweet dessert wines. Key grape varieties include Malbec (known locally as Côt), Tannat, and Négrette for reds, and Gros Manseng, Petit Manseng, and Colombard for whites. • Corsica: Although technically an island, Corsica is often included in discussions of Southern French",
+      "page_number": 5
+    }
+  ]
+}

@@ -1,0 +1,2753 @@
+{
+  "metadata": {
+    "input_documents": [
+      "South of France - History.pdf"
+    ],
+    "persona": "",
+    "job_to_be_done": "",
+    "processing_timestamp": "2025-07-28T14:33:34.203545"
+  },
+  "extracted_sections": [
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 1,
+      "section_title": "A Historical Journey Through the South of France",
+      "importance_rank": 1
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 1,
+      "section_title": "Introduction",
+      "importance_rank": 2
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 1,
+      "section_title": "The South of France, renowned for its picturesque landscapes, charming villages, and",
+      "importance_rank": 3
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 1,
+      "section_title": "stunning coastline, is also steeped in history. From ancient Roman ruins to medieval",
+      "importance_rank": 4
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 1,
+      "section_title": "fortresses and Renaissance architecture, this region oﬀers a fascinating glimpse into the past.",
+      "importance_rank": 5
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 1,
+      "section_title": "This guide will take you through the histories of major cities, famous historical sites, and other",
+      "importance_rank": 6
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 2,
+      "section_title": "Marseille: The Oldest City in France",
+      "importance_rank": 7
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 2,
+      "section_title": "Marseille, founded by Greek sailors around 600 BC, is the oldest city in France. Its strategic",
+      "importance_rank": 8
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 2,
+      "section_title": "location on the Mediterranean coast made it a vital trading port throughout history. The city's",
+      "importance_rank": 9
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 2,
+      "section_title": "rich cultural heritage is reflected in its diverse architecture and vibrant atmosphere.",
+      "importance_rank": 10
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 2,
+      "section_title": "Key Historical Sites in Marseille",
+      "importance_rank": 11
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 2,
+      "section_title": "Old Port (Vieux-Port)",
+      "importance_rank": 12
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 2,
+      "section_title": ": The heart of Marseille, the Old Port has been a bustling harbor",
+      "importance_rank": 13
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 2,
+      "section_title": "for over 2,600 years. Today, it is a lively area filled with cafes, restaurants, and",
+      "importance_rank": 14
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 2,
+      "section_title": "markets.",
+      "importance_rank": 15
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 2,
+      "section_title": "Basilica of Notre-Dame de la Garde",
+      "importance_rank": 16
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 2,
+      "section_title": ": This iconic basilica, perched on a hill",
+      "importance_rank": 17
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 2,
+      "section_title": "overlooking the city, oﬀers panoramic views of Marseille and the Mediterranean Sea.",
+      "importance_rank": 18
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 2,
+      "section_title": "Built in the 19th century, it is a symbol of the city's maritime heritage.",
+      "importance_rank": 19
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 2,
+      "section_title": "Fort Saint-Jean",
+      "importance_rank": 20
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 2,
+      "section_title": ": Constructed in the 17th century, this fort guards the entrance to the",
+      "importance_rank": 21
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 2,
+      "section_title": "Old Port. It now houses part of the Museum of European and Mediterranean",
+      "importance_rank": 22
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 2,
+      "section_title": "Civilizations (MuCEM).",
+      "importance_rank": 23
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 2,
+      "section_title": "Le Panier",
+      "importance_rank": 24
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 2,
+      "section_title": ": The oldest district in Marseille, Le Panier is a maze of narrow streets,",
+      "importance_rank": 25
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 2,
+      "section_title": "colorful buildings, and historic landmarks. It's a great place to explore the city's past",
+      "importance_rank": 26
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 2,
+      "section_title": "and enjoy its vibrant culture.",
+      "importance_rank": 27
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 2,
+      "section_title": "Château d'If",
+      "importance_rank": 28
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 2,
+      "section_title": ": Commissioned by King Francis I in 1524, this fortress on the Île d'If",
+      "importance_rank": 29
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 2,
+      "section_title": "became famous as a prison and was immortalized in Alexandre Dumas' novel \"The",
+      "importance_rank": 30
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 2,
+      "section_title": "Count of Monte Cristo\"",
+      "importance_rank": 31
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 2,
+      "section_title": "La Marseillaise",
+      "importance_rank": 32
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 2,
+      "section_title": ": Marseille played a significant role during the French Revolution, and",
+      "importance_rank": 33
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 3,
+      "section_title": "Nice: The Jewel of the French Riviera",
+      "importance_rank": 34
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 3,
+      "section_title": "Nice, located on the French Riviera, has been a popular destination for centuries. Its history",
+      "importance_rank": 35
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 3,
+      "section_title": "dates back to the ancient Greeks, who founded the city around 350 BC. Nice later became a",
+      "importance_rank": 36
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 3,
+      "section_title": "Roman colony and has since evolved into a glamorous resort town.",
+      "importance_rank": 37
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 3,
+      "section_title": "Key Historical Sites in Nice",
+      "importance_rank": 38
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 3,
+      "section_title": "Castle Hill (Colline du Château)",
+      "importance_rank": 39
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 3,
+      "section_title": ": This hilltop park oﬀers stunning views of Nice and",
+      "importance_rank": 40
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 3,
+      "section_title": "the Mediterranean. It was once the site of a medieval castle, which was destroyed in",
+      "importance_rank": 41
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 3,
+      "section_title": "the 18th century.",
+      "importance_rank": 42
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 3,
+      "section_title": "Promenade des Anglais",
+      "importance_rank": 43
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 3,
+      "section_title": ": This famous seaside promenade was built in the 19th century",
+      "importance_rank": 44
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 3,
+      "section_title": "and named after the English aristocrats who frequented Nice. It's perfect for a leisurely",
+      "importance_rank": 45
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 3,
+      "section_title": "stroll along the coast.",
+      "importance_rank": 46
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 3,
+      "section_title": "Old Town (Vieux Nice)",
+      "importance_rank": 47
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 3,
+      "section_title": ": The historic center of Nice is a labyrinth of narrow streets,",
+      "importance_rank": 48
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 3,
+      "section_title": "baroque churches, and bustling markets. Don't miss the Cours Saleya market, where",
+      "importance_rank": 49
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 3,
+      "section_title": "you can find fresh produce, flowers, and local delicacies.",
+      "importance_rank": 50
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 3,
+      "section_title": "Russian Orthodox Cathedral",
+      "importance_rank": 51
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 3,
+      "section_title": ": Built in the early 20th century, this stunning cathedral",
+      "importance_rank": 52
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 3,
+      "section_title": "reflects the influence of Russian aristocrats who vacationed in Nice.",
+      "importance_rank": 53
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 3,
+      "section_title": "Cimiez",
+      "importance_rank": 54
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 3,
+      "section_title": ": An ancient Roman settlement, Cimiez is home to the ruins of a Roman",
+      "importance_rank": 55
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 3,
+      "section_title": "amphitheater and baths, as well as the Monastery of Cimiez, which oﬀers beautiful",
+      "importance_rank": 56
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 3,
+      "section_title": "gardens and a museum dedicated to the painter Henri Matisse",
+      "importance_rank": 57
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 3,
+      "section_title": "Carnival of Nice",
+      "importance_rank": 58
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 3,
+      "section_title": ": One of the most famous carnivals in France, the Carnival of Nice",
+      "importance_rank": 59
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 4,
+      "section_title": "Avignon: The City of Popes",
+      "importance_rank": 60
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 4,
+      "section_title": "Avignon, located on the banks of the Rhône River, is best known for its role as the seat of the",
+      "importance_rank": 61
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 4,
+      "section_title": "papacy in the 14th century. The city was home to seven popes during this period, leaving a",
+      "importance_rank": 62
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 4,
+      "section_title": "lasting legacy of impressive architecture and cultural heritage.",
+      "importance_rank": 63
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 4,
+      "section_title": "Key Historical Sites in Avignon",
+      "importance_rank": 64
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 4,
+      "section_title": "Palais des Papes",
+      "importance_rank": 65
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 4,
+      "section_title": ": This massive Gothic palace was the residence of the popes during",
+      "importance_rank": 66
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 4,
+      "section_title": "their stay in Avignon. It is one of the largest and most important medieval Gothic",
+      "importance_rank": 67
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 4,
+      "section_title": "buildings in Europe.",
+      "importance_rank": 68
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 4,
+      "section_title": "Pont Saint-Bénézet (Pont d'Avignon)",
+      "importance_rank": 69
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 4,
+      "section_title": ": This famous bridge, immortalized in the song",
+      "importance_rank": 70
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 4,
+      "section_title": "\"Sur le Pont d'Avignon,\" was built in the 12th century. Although only a few arches",
+      "importance_rank": 71
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 4,
+      "section_title": "remain, it is a UNESCO World Heritage site.",
+      "importance_rank": 72
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 4,
+      "section_title": "Avignon Cathedral",
+      "importance_rank": 73
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 4,
+      "section_title": ": Located next to the Palais des Papes, this Romanesque cathedral",
+      "importance_rank": 74
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 4,
+      "section_title": "dates back to the 12th century and features a gilded statue of the Virgin Mary.",
+      "importance_rank": 75
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 4,
+      "section_title": "Place de l'Horloge",
+      "importance_rank": 76
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 4,
+      "section_title": ": The main square in Avignon, this lively area is surrounded by",
+      "importance_rank": 77
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 4,
+      "section_title": "cafes, restaurants, and historic buildings, including the 19th-century town hall and",
+      "importance_rank": 78
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 4,
+      "section_title": "opera house.",
+      "importance_rank": 79
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 4,
+      "section_title": "Rocher des Doms",
+      "importance_rank": 80
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 4,
+      "section_title": ": This rocky outcrop oﬀers panoramic views of the Rhône River and",
+      "importance_rank": 81
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 4,
+      "section_title": "the surrounding countryside. It has been a strategic site since prehistoric times and",
+      "importance_rank": 82
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 4,
+      "section_title": "now features beautiful gardens",
+      "importance_rank": 83
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 4,
+      "section_title": "Avignon Festival",
+      "importance_rank": 84
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 4,
+      "section_title": ": Established in 1947, the Avignon Festival is one of the most",
+      "importance_rank": 85
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 4,
+      "section_title": "important contemporary performing arts events in the world, attracting artists and",
+      "importance_rank": 86
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 5,
+      "section_title": "Nîmes: The Rome of France",
+      "importance_rank": 87
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 5,
+      "section_title": "Nîmes, often referred to as the \"Rome of France,\" boasts some of the best-preserved Roman",
+      "importance_rank": 88
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 5,
+      "section_title": "architecture in the country. The city's history dates back to the Roman Empire, when it was an",
+      "importance_rank": 89
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 5,
+      "section_title": "important settlement in the province of Gallia Narbonensis.",
+      "importance_rank": 90
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 5,
+      "section_title": "Key Historical Sites in Nîmes",
+      "importance_rank": 91
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 5,
+      "section_title": "Arena of Nîmes",
+      "importance_rank": 92
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 5,
+      "section_title": ": This Roman amphitheater, built in the 1st century AD, is one of the",
+      "importance_rank": 93
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 5,
+      "section_title": "best-preserved in the world. It still hosts events, including concerts and bullfights.",
+      "importance_rank": 94
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 5,
+      "section_title": "Maison Carrée",
+      "importance_rank": 95
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 5,
+      "section_title": ": A beautifully preserved Roman temple, the Maison Carrée dates back",
+      "importance_rank": 96
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 5,
+      "section_title": "to the 1st century BC. It is one of the best examples of classical Roman architecture.",
+      "importance_rank": 97
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 5,
+      "section_title": "Pont du Gard",
+      "importance_rank": 98
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 5,
+      "section_title": ": Located just outside Nîmes, this ancient Roman aqueduct is a UNESCO",
+      "importance_rank": 99
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 5,
+      "section_title": "World Heritage site. It was built in the 1st century AD to transport water to the city.",
+      "importance_rank": 100
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 5,
+      "section_title": "Jardins de la Fontaine",
+      "importance_rank": 101
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 5,
+      "section_title": ": These 18th-century gardens are built around the ruins of a",
+      "importance_rank": 102
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 5,
+      "section_title": "Roman sanctuary. They oﬀer a peaceful retreat with beautiful fountains, statues, and",
+      "importance_rank": 103
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 5,
+      "section_title": "shaded pathways.",
+      "importance_rank": 104
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 5,
+      "section_title": "Tour Magne",
+      "importance_rank": 105
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 5,
+      "section_title": ": This ancient Roman tower, part of the city's original fortifications, oﬀers",
+      "importance_rank": 106
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 5,
+      "section_title": "panoramic views of Nîmes and the surrounding area",
+      "importance_rank": 107
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 5,
+      "section_title": "Temple of Diana",
+      "importance_rank": 108
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 5,
+      "section_title": ": Located in the Jardins de la Fontaine, this Roman temple's exact",
+      "importance_rank": 109
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 5,
+      "section_title": "purpose remains a mystery, but it is believed to have been a library or a place of",
+      "importance_rank": 110
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 6,
+      "section_title": "Carcassonne: A Medieval Fortress",
+      "importance_rank": 111
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 6,
+      "section_title": "Carcassonne is a fortified city in the Languedoc region, known for its well-preserved medieval",
+      "importance_rank": 112
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 6,
+      "section_title": "architecture. The city's history dates back to the Roman period, but it is best known for its",
+      "importance_rank": 113
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 6,
+      "section_title": "role in the medieval period as a stronghold during the Albigensian Crusade.",
+      "importance_rank": 114
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 6,
+      "section_title": "Key Historical Sites in Carcassonne",
+      "importance_rank": 115
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 6,
+      "section_title": "Cité de Carcassonne",
+      "importance_rank": 116
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 6,
+      "section_title": ": This medieval fortress is a UNESCO World Heritage site and one",
+      "importance_rank": 117
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 6,
+      "section_title": "of the most impressive examples of medieval architecture in Europe. It features double",
+      "importance_rank": 118
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 6,
+      "section_title": "walls, 52 towers, and a castle.",
+      "importance_rank": 119
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 6,
+      "section_title": "Basilica of Saints Nazarius and Celsus",
+      "importance_rank": 120
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 6,
+      "section_title": ": This Gothic-Romanesque basilica, located",
+      "importance_rank": 121
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 6,
+      "section_title": "within the fortress, dates back to the 11th century. It is known for its beautiful stained",
+      "importance_rank": 122
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 6,
+      "section_title": "glass windows.",
+      "importance_rank": 123
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 6,
+      "section_title": "Château Comtal",
+      "importance_rank": 124
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 6,
+      "section_title": ": This castle, located within the Cité, oﬀers guided tours that provide",
+      "importance_rank": 125
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 6,
+      "section_title": "insight into the history and architecture of Carcassonne.",
+      "importance_rank": 126
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 6,
+      "section_title": "Pont Vieux",
+      "importance_rank": 127
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 6,
+      "section_title": ": This 14th-century bridge connects the medieval Cité with the lower town.",
+      "importance_rank": 128
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 6,
+      "section_title": "It oﬀers stunning views of the fortress and the surrounding countryside.",
+      "importance_rank": 129
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 6,
+      "section_title": "Inquisition Tower",
+      "importance_rank": 130
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 6,
+      "section_title": ": One of the Roman towers in Carcassonne, it was used during the",
+      "importance_rank": 131
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 6,
+      "section_title": "Medieval Inquisition to imprison and torture suspected heretics",
+      "importance_rank": 132
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 6,
+      "section_title": "Hoardings",
+      "importance_rank": 133
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 6,
+      "section_title": ": Carcassonne was the first fortress to use wooden hoardings during sieges,",
+      "importance_rank": 134
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 7,
+      "section_title": "Toulouse: The Pink City",
+      "importance_rank": 135
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 7,
+      "section_title": "Toulouse, known as \"La Ville Rose\" (The Pink City) due to its distinctive terracotta buildings,",
+      "importance_rank": 136
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 7,
+      "section_title": "is a vibrant city with a rich history. It was an important center during the Roman period and",
+      "importance_rank": 137
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 7,
+      "section_title": "later became a hub of the aerospace industry.",
+      "importance_rank": 138
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 7,
+      "section_title": "Key Historical Sites in Toulouse",
+      "importance_rank": 139
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 7,
+      "section_title": "Basilica of Saint-Sernin: This Romanesque basilica, built between the 11th and 13th",
+      "importance_rank": 140
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 7,
+      "section_title": "centuries, is a UNESCO World Heritage site. It is one of the largest and best-preserved",
+      "importance_rank": 141
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 7,
+      "section_title": "Romanesque churches in Europe.",
+      "importance_rank": 142
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 7,
+      "section_title": "Capitole de Toulouse: The city's town hall and theater, the Capitole, is an impressive",
+      "importance_rank": 143
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 7,
+      "section_title": "building with a neoclassical facade. It has been the seat of municipal power since the",
+      "importance_rank": 144
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 7,
+      "section_title": "12th century.",
+      "importance_rank": 145
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 7,
+      "section_title": "Jacobins Convent: This Gothic convent, founded in the 13th century, is known for its",
+      "importance_rank": 146
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 7,
+      "section_title": "beautiful cloister and the relics of Saint Thomas Aquinas.",
+      "importance_rank": 147
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 7,
+      "section_title": "Pont Neuf: Despite its name, which means \"New Bridge,\" this is the oldest bridge in",
+      "importance_rank": 148
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 7,
+      "section_title": "Toulouse. It was completed in the 17th century and oﬀers picturesque views of the",
+      "importance_rank": 149
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 7,
+      "section_title": "Garonne River.",
+      "importance_rank": 150
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 7,
+      "section_title": "Canal du Midi: A UNESCO World Heritage site, this canal connects the Garonne River",
+      "importance_rank": 151
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 7,
+      "section_title": "to the Mediterranean Sea and was a major engineering feat of the 17th century.",
+      "importance_rank": 152
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 7,
+      "section_title": "Aeroscopia Museum: Reflecting Toulouse's role as a center of the aerospace industry,",
+      "importance_rank": 153
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 8,
+      "section_title": "Arles, located on the banks of the Rhône River, is renowned for its Roman and Romanesque",
+      "importance_rank": 154
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 8,
+      "section_title": "monuments. The city was an important Roman settlement and later became a center of",
+      "importance_rank": 155
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 8,
+      "section_title": "Christian pilgrimage.",
+      "importance_rank": 156
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 8,
+      "section_title": "Key Historical Sites in Arles",
+      "importance_rank": 157
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 8,
+      "section_title": "Arles Amphitheatre: This Roman amphitheater, built in the 1st century AD, is still used",
+      "importance_rank": 158
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 8,
+      "section_title": "for events such as bullfights and concerts. It is one of the best-preserved Roman",
+      "importance_rank": 159
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 8,
+      "section_title": "structures in France.",
+      "importance_rank": 160
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 8,
+      "section_title": "Church of St. Trophime: This Romanesque church, built in the 12th century, is known",
+      "importance_rank": 161
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 8,
+      "section_title": "for its stunning portal and cloister. It was an important stop on the pilgrimage route to",
+      "importance_rank": 162
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 8,
+      "section_title": "Santiago de Compostela.",
+      "importance_rank": 163
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 8,
+      "section_title": "Alyscamps: This ancient Roman necropolis, located just outside the city walls, was a",
+      "importance_rank": 164
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 8,
+      "section_title": "major burial site in antiquity. It features a long avenue lined with sarcophagi.",
+      "importance_rank": 165
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 8,
+      "section_title": "Thermes de Constantin: These Roman baths, built in the 4th century AD, are a",
+      "importance_rank": 166
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 8,
+      "section_title": "Van Gogh's Influence: Arles is also famous for its association with Vincent van Gogh,",
+      "importance_rank": 167
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 8,
+      "section_title": "who created over 300 works of art during his time in the city. The Van Gogh",
+      "importance_rank": 168
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 8,
+      "section_title": "Foundation in Arles celebrates his legacy.",
+      "importance_rank": 169
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 8,
+      "section_title": "Cryptoporticus: An underground gallery built by the Romans in the 1st century BC, it",
+      "importance_rank": 170
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 8,
+      "section_title": "served as a foundation for the Forum and is one of the few remaining examples of",
+      "importance_rank": 171
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 9,
+      "section_title": "Aix-en-Provence, founded by the Romans in 123 BC, is known for its elegant architecture,",
+      "importance_rank": 172
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 9,
+      "section_title": "vibrant cultural scene, and association with the painter Paul Cézanne. The city's rich history is",
+      "importance_rank": 173
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 9,
+      "section_title": "reflected in its beautiful buildings and lively atmosphere.",
+      "importance_rank": 174
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 9,
+      "section_title": "Key Historical Sites in Aix-en-Provence",
+      "importance_rank": 175
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 9,
+      "section_title": "Cours Mirabeau: This grand boulevard, lined with plane trees, cafes, and fountains, is",
+      "importance_rank": 176
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 9,
+      "section_title": "the heart of Aix-en-Provence. It is a great place to soak up the city's atmosphere.",
+      "importance_rank": 177
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 9,
+      "section_title": "Saint-Sauveur Cathedral: This cathedral, built between the 5th and 17th centuries,",
+      "importance_rank": 178
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 9,
+      "section_title": "features a mix of architectural styles, including Romanesque, Gothic, and Baroque. It is",
+      "importance_rank": 179
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 9,
+      "section_title": "known for its beautiful cloister and triptych by Nicolas Froment.",
+      "importance_rank": 180
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 9,
+      "section_title": "Hôtel de Ville: The town hall of Aix-en-Provence, built in the 17th century, is an elegant",
+      "importance_rank": 181
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 9,
+      "section_title": "building with a beautiful clock tower and an ornate facade. The square in front of the",
+      "importance_rank": 182
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 9,
+      "section_title": "Hôtel de Ville is a lively spot, often hosting markets and events.",
+      "importance_rank": 183
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 9,
+      "section_title": "Atelier Cézanne: The studio of Paul Cézanne, one of the most famous painters",
+      "importance_rank": 184
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 9,
+      "section_title": "associated with Aix-en-Provence, is preserved as a museum. Visitors can see where",
+      "importance_rank": 185
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 9,
+      "section_title": "Cézanne created many of his masterpieces and gain insight into his artistic process.",
+      "importance_rank": 186
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 9,
+      "section_title": "Thermal Springs: Aix-en-Provence was originally founded as a Roman spa town due to",
+      "importance_rank": 187
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 9,
+      "section_title": "its thermal springs, which are still in use today at the Thermes Sextius.",
+      "importance_rank": 188
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 9,
+      "section_title": "Festival d'Aix-en-Provence: An annual opera festival held in July, it is one of the most",
+      "importance_rank": 189
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 10,
+      "section_title": "Montpellier: A University City with Medieval Charm",
+      "importance_rank": 190
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 10,
+      "section_title": "Montpellier, founded in the 10th century, is known for its prestigious university and vibrant",
+      "importance_rank": 191
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 10,
+      "section_title": "cultural scene. The city has a rich history, with a blend of medieval, Renaissance, and modern",
+      "importance_rank": 192
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 10,
+      "section_title": "architecture.",
+      "importance_rank": 193
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 10,
+      "section_title": "Key Historical Sites in Montpellier",
+      "importance_rank": 194
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 10,
+      "section_title": "Place de la Comédie: The central square of Montpellier, this bustling area is",
+      "importance_rank": 195
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 10,
+      "section_title": "surrounded by cafes, shops, and the impressive Opéra Comédie. It is a great place to",
+      "importance_rank": 196
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 10,
+      "section_title": "start exploring the city.",
+      "importance_rank": 197
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 10,
+      "section_title": "Saint-Pierre Cathedral: This Gothic cathedral, built in the 14th century, is known for its",
+      "importance_rank": 198
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 10,
+      "section_title": "imposing facade and twin towers. It is the seat of the Archdiocese of Montpellier.",
+      "importance_rank": 199
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 10,
+      "section_title": "Promenade du Peyrou: This 17th-century promenade oﬀers stunning views of the city",
+      "importance_rank": 200
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 10,
+      "section_title": "and features the Arc de Triomphe and the Château d'Eau, a beautiful water tower.",
+      "importance_rank": 201
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 10,
+      "section_title": "Musée Fabre: One of the most important art museums in France, the Musée Fabre",
+      "importance_rank": 202
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 10,
+      "section_title": "houses an extensive collection of European paintings, sculptures, and decorative arts.",
+      "importance_rank": 203
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 10,
+      "section_title": "University of Montpellier: Founded in 1289, it is one of the oldest universities in the",
+      "importance_rank": 204
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 10,
+      "section_title": "world and has been a center of learning and culture for centuries.",
+      "importance_rank": 205
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 10,
+      "section_title": "Jardin des Plantes: Established in 1593, it is the oldest botanical garden in France and",
+      "importance_rank": 206
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 11,
+      "section_title": "Perpignan: A Blend of French and Catalan Cultures",
+      "importance_rank": 207
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 11,
+      "section_title": "Perpignan, located near the Spanish border, has a unique blend of French and Catalan",
+      "importance_rank": 208
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 11,
+      "section_title": "influences. The city was once the capital of the Kingdom of Majorca and has a rich history",
+      "importance_rank": 209
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 11,
+      "section_title": "reflected in its architecture and culture.",
+      "importance_rank": 210
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 11,
+      "section_title": "Key Historical Sites in Perpignan",
+      "importance_rank": 211
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 11,
+      "section_title": "Palace of the Kings of Majorca: This impressive fortress, built in the 13th century, was",
+      "importance_rank": 212
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 11,
+      "section_title": "the residence of the Kings of Majorca. It oﬀers panoramic views of the city and the",
+      "importance_rank": 213
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 11,
+      "section_title": "surrounding countryside.",
+      "importance_rank": 214
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 11,
+      "section_title": "Perpignan Cathedral: Also known as the Cathedral of Saint John the Baptist, this",
+      "importance_rank": 215
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 11,
+      "section_title": "Gothic cathedral was built in the 14th century and features a beautiful cloister and bell",
+      "importance_rank": 216
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 11,
+      "section_title": "tower.",
+      "importance_rank": 217
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 11,
+      "section_title": "Castillet: This iconic red-brick gatehouse, built in the 14th century, is a symbol of",
+      "importance_rank": 218
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 11,
+      "section_title": "Perpignan. It now houses the Casa Pairal Museum, which showcases the history and",
+      "importance_rank": 219
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 11,
+      "section_title": "culture of the region.",
+      "importance_rank": 220
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 11,
+      "section_title": "Loge de Mer: This historic building, originally a maritime trading exchange, dates back",
+      "importance_rank": 221
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 11,
+      "section_title": "to the 14th century. It is located in the heart of the old town and is a testament to",
+      "importance_rank": 222
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 11,
+      "section_title": "Perpignan's rich mercantile history.",
+      "importance_rank": 223
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 11,
+      "section_title": "Campo Santo: One of the largest and oldest cloister cemeteries in France, dating back",
+      "importance_rank": 224
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 11,
+      "section_title": "to the 14th century.",
+      "importance_rank": 225
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 11,
+      "section_title": "Festival de Perpignan: An annual photojournalism festival, Visa pour l'Image, held in",
+      "importance_rank": 226
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 12,
+      "section_title": "Conclusion",
+      "importance_rank": 227
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 12,
+      "section_title": "The South of France oﬀers a rich tapestry of history, culture, and architecture that is sure to",
+      "importance_rank": 228
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 12,
+      "section_title": "captivate any traveler. From the ancient Roman ruins of Nîmes and Arles to the medieval",
+      "importance_rank": 229
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 12,
+      "section_title": "fortresses of Carcassonne and Avignon, each city and town has its own unique story to tell.",
+      "importance_rank": 230
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 12,
+      "section_title": "Whether you're exploring the vibrant streets of Marseille, the elegant boulevards of Aix-en-",
+      "importance_rank": 231
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 12,
+      "section_title": "Provence, or the charming squares of Montpellier, you'll find a wealth of historical treasures",
+      "importance_rank": 232
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 12,
+      "section_title": "waiting to be discovered. Use this guide to plan your journey through the South of France and",
+      "importance_rank": 233
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 7,
+      "section_title": "this museum showcases the history of aviation with exhibits including the Concorde",
+      "importance_rank": 234
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 8,
+      "section_title": "Arles: A Roman Treasure",
+      "importance_rank": 235
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 8,
+      "section_title": "testament to the city's importance during the Roman period.",
+      "importance_rank": 236
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 9,
+      "section_title": "Aix-en-Provence: A City of Art and Culture",
+      "importance_rank": 237
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 1,
+      "section_title": "points of interest to help you plan an enriching and unforgettable trip.",
+      "importance_rank": 238
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 12,
+      "section_title": "immerse yourself in the fascinating history of this beautiful region.",
+      "importance_rank": 239
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 8,
+      "section_title": "such structures.",
+      "importance_rank": 240
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 3,
+      "section_title": "dates back to 1873 and features elaborate parades, floats, and flower battles",
+      "importance_rank": 241
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 9,
+      "section_title": "prestigious opera festivals in Europe.",
+      "importance_rank": 242
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 7,
+      "section_title": "and Airbus aircraft.",
+      "importance_rank": 243
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 6,
+      "section_title": "allowing defenders to shoot arrows and drop projectiles on attackers below",
+      "importance_rank": 244
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 5,
+      "section_title": "worship",
+      "importance_rank": 245
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 11,
+      "section_title": "Perpignan, attracts photographers and journalists from around the world.",
+      "importance_rank": 246
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 4,
+      "section_title": "audiences from around the globe",
+      "importance_rank": 247
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 2,
+      "section_title": "the city's volunteers composed the national anthem of France, \"La Marseillaise\"",
+      "importance_rank": 248
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 10,
+      "section_title": "was created for the study of medicinal plants.",
+      "importance_rank": 249
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 1
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 1
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 1
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 1
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 1
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 1
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 10
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 10
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 10
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 10
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 10
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 10
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 10
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 10
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 10
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 10
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 10
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 10
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 10
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 10
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 10
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 10
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 10
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 12
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 12
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 12
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 12
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 12
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 12
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 12
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "A Historical Journey Through the South of France \nIntroduction \nThe South of France, renowned for its picturesque landscapes, charming villages, and \nstunning coastline, is also steeped in history. From ancient Roman ruins to medieval \nfortresses and Renaissance architecture, this region oﬀers a fascinating glimpse into the past. \nThis guide will take you through the histories of major cities, famous historical sites, and other \npoints of interest to help you plan an enriching and unforgettable trip.",
+      "page_number": 1
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "Conclusion \nThe South of France oﬀers a rich tapestry of history, culture, and architecture that is sure to \ncaptivate any traveler. From the ancient Roman ruins of Nîmes and Arles to the medieval \nfortresses of Carcassonne and Avignon, each city and town has its own unique story to tell. \nWhether you're exploring the vibrant streets of Marseille, the elegant boulevards of Aix-en-\nProvence, or the charming squares of Montpellier, you'll find a wealth of historical treasures \nwaiting to be discovered. Use this guide to plan your journey through the South of France and \nimmerse yourself in the fascinating history of this beautiful region.",
+      "page_number": 12
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "Arles: A Roman Treasure \nArles, located on the banks of the Rhône River, is renowned for its Roman and Romanesque \nmonuments. The city was an important Roman settlement and later became a center of \nChristian pilgrimage. \nKey Historical Sites in Arles \n• \nArles Amphitheatre: This Roman amphitheater, built in the 1st century AD, is still used \nfor events such as bullfights and concerts. It is one of the best-preserved Roman \nstructures in France. \n• \nChurch of St. Trophime: This Romanesque church, built in the 12th century, is known \nfor its stunning portal and cloister. It was an important stop on the pilgrimage route to \nSantiago de Compostela. \n• \nAlyscamps: This ancient Roman necropolis, located just outside the city walls, was a \nmajor burial site in antiquity. It features a long avenue lined with sarcophagi. \n• \nThermes de Constantin: These Roman baths, built in the 4th century AD, are a \ntestament to the city's importance during the Roman period. \n• \nVan Gogh's Influence: Arles is also famous for its association with Vincent van Gogh, \nwho created over 300 works of art during his time in the city. The Van Gogh \nFoundation in Arles celebrates his legacy. \n• \nCryptoporticus: An underground gallery built by the Romans in the 1st century BC, it \nserved as a foundation for the Forum and is one of the few remaining examples of \nsuch structures.",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "Nice: The Jewel of the French Riviera \nNice, located on the French Riviera, has been a popular destination for centuries. Its history \ndates back to the ancient Greeks, who founded the city around 350 BC. Nice later became a \nRoman colony and has since evolved into a glamorous resort town. \nKey Historical Sites in Nice \n• \nCastle Hill (Colline du Château): This hilltop park oﬀers stunning views of Nice and \nthe Mediterranean. It was once the site of a medieval castle, which was destroyed in \nthe 18th century. \n• \nPromenade des Anglais: This famous seaside promenade was built in the 19th century \nand named after the English aristocrats who frequented Nice. It's perfect for a leisurely \nstroll along the coast. \n• \nOld Town (Vieux Nice): The historic center of Nice is a labyrinth of narrow streets, \nbaroque churches, and bustling markets. Don't miss the Cours Saleya market, where \nyou can find fresh produce, flowers, and local delicacies. \n• \nRussian Orthodox Cathedral: Built in the early 20th century, this stunning cathedral \nreflects the influence of Russian aristocrats who vacationed in Nice. \n• \nCimiez: An ancient Roman settlement, Cimiez is home to the ruins of a Roman \namphitheater and baths, as well as the Monastery of Cimiez, which oﬀers beautiful \ngardens and a museum dedicated to the painter Henri Matisse3. \n• \nCarnival of Nice: One of the most famous carnivals in France, the Carnival of Nice \ndates back to 1873 and features elaborate parades, floats, and flower battles4.",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "Aix-en-Provence: A City of Art and Culture \nAix-en-Provence, founded by the Romans in 123 BC, is known for its elegant architecture, \nvibrant cultural scene, and association with the painter Paul Cézanne. The city's rich history is \nreflected in its beautiful buildings and lively atmosphere. \nKey Historical Sites in Aix-en-Provence \n• \nCours Mirabeau: This grand boulevard, lined with plane trees, cafes, and fountains, is \nthe heart of Aix-en-Provence. It is a great place to soak up the city's atmosphere. \n• \nSaint-Sauveur Cathedral: This cathedral, built between the 5th and 17th centuries, \nfeatures a mix of architectural styles, including Romanesque, Gothic, and Baroque. It is \nknown for its beautiful cloister and triptych by Nicolas Froment. \n• \nHôtel de Ville: The town hall of Aix-en-Provence, built in the 17th century, is an elegant \nbuilding with a beautiful clock tower and an ornate facade. The square in front of the \nHôtel de Ville is a lively spot, often hosting markets and events. \n• \nAtelier Cézanne: The studio of Paul Cézanne, one of the most famous painters \nassociated with Aix-en-Provence, is preserved as a museum. Visitors can see where \nCézanne created many of his masterpieces and gain insight into his artistic process. \n• \nThermal Springs: Aix-en-Provence was originally founded as a Roman spa town due to \nits thermal springs, which are still in use today at the Thermes Sextius. \n• \nFestival d'Aix-en-Provence: An annual opera festival held in July, it is one of the most \nprestigious opera festivals in Europe.",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "Toulouse: The Pink City \nToulouse, known as \"La Ville Rose\" (The Pink City) due to its distinctive terracotta buildings, \nis a vibrant city with a rich history. It was an important center during the Roman period and \nlater became a hub of the aerospace industry. \nKey Historical Sites in Toulouse \n• \nBasilica of Saint-Sernin: This Romanesque basilica, built between the 11th and 13th \ncenturies, is a UNESCO World Heritage site. It is one of the largest and best-preserved \nRomanesque churches in Europe. \n• \nCapitole de Toulouse: The city's town hall and theater, the Capitole, is an impressive \nbuilding with a neoclassical facade. It has been the seat of municipal power since the \n12th century. \n• \nJacobins Convent: This Gothic convent, founded in the 13th century, is known for its \nbeautiful cloister and the relics of Saint Thomas Aquinas. \n• \nPont Neuf: Despite its name, which means \"New Bridge,\" this is the oldest bridge in \nToulouse. It was completed in the 17th century and oﬀers picturesque views of the \nGaronne River. \n• \nCanal du Midi: A UNESCO World Heritage site, this canal connects the Garonne River \nto the Mediterranean Sea and was a major engineering feat of the 17th century. \n• \nAeroscopia Museum: Reflecting Toulouse's role as a center of the aerospace industry, \nthis museum showcases the history of aviation with exhibits including the Concorde \nand Airbus aircraft.",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "Carcassonne: A Medieval Fortress \nCarcassonne is a fortified city in the Languedoc region, known for its well-preserved medieval \narchitecture. The city's history dates back to the Roman period, but it is best known for its \nrole in the medieval period as a stronghold during the Albigensian Crusade. \nKey Historical Sites in Carcassonne \n• \nCité de Carcassonne: This medieval fortress is a UNESCO World Heritage site and one \nof the most impressive examples of medieval architecture in Europe. It features double \nwalls, 52 towers, and a castle. \n• \nBasilica of Saints Nazarius and Celsus: This Gothic-Romanesque basilica, located \nwithin the fortress, dates back to the 11th century. It is known for its beautiful stained \nglass windows. \n• \nChâteau Comtal: This castle, located within the Cité, oﬀers guided tours that provide \ninsight into the history and architecture of Carcassonne. \n• \nPont Vieux: This 14th-century bridge connects the medieval Cité with the lower town. \nIt oﬀers stunning views of the fortress and the surrounding countryside. \n• \nInquisition Tower: One of the Roman towers in Carcassonne, it was used during the \nMedieval Inquisition to imprison and torture suspected heretics9. \n• \nHoardings: Carcassonne was the first fortress to use wooden hoardings during sieges, \nallowing defenders to shoot arrows and drop projectiles on attackers below10.",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "Nîmes: The Rome of France \nNîmes, often referred to as the \"Rome of France,\" boasts some of the best-preserved Roman \narchitecture in the country. The city's history dates back to the Roman Empire, when it was an \nimportant settlement in the province of Gallia Narbonensis. \nKey Historical Sites in Nîmes \n• \nArena of Nîmes: This Roman amphitheater, built in the 1st century AD, is one of the \nbest-preserved in the world. It still hosts events, including concerts and bullfights. \n• \nMaison Carrée: A beautifully preserved Roman temple, the Maison Carrée dates back \nto the 1st century BC. It is one of the best examples of classical Roman architecture. \n• \nPont du Gard: Located just outside Nîmes, this ancient Roman aqueduct is a UNESCO \nWorld Heritage site. It was built in the 1st century AD to transport water to the city. \n• \nJardins de la Fontaine: These 18th-century gardens are built around the ruins of a \nRoman sanctuary. They oﬀer a peaceful retreat with beautiful fountains, statues, and \nshaded pathways. \n• \nTour Magne: This ancient Roman tower, part of the city's original fortifications, oﬀers \npanoramic views of Nîmes and the surrounding area7. \n• \nTemple of Diana: Located in the Jardins de la Fontaine, this Roman temple's exact \npurpose remains a mystery, but it is believed to have been a library or a place of \nworship8.",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "Perpignan: A Blend of French and Catalan Cultures \nPerpignan, located near the Spanish border, has a unique blend of French and Catalan \ninfluences. The city was once the capital of the Kingdom of Majorca and has a rich history \nreflected in its architecture and culture. \nKey Historical Sites in Perpignan \n• \nPalace of the Kings of Majorca: This impressive fortress, built in the 13th century, was \nthe residence of the Kings of Majorca. It oﬀers panoramic views of the city and the \nsurrounding countryside. \n• \nPerpignan Cathedral: Also known as the Cathedral of Saint John the Baptist, this \nGothic cathedral was built in the 14th century and features a beautiful cloister and bell \ntower. \n• \nCastillet: This iconic red-brick gatehouse, built in the 14th century, is a symbol of \nPerpignan. It now houses the Casa Pairal Museum, which showcases the history and \nculture of the region. \n• \nLoge de Mer: This historic building, originally a maritime trading exchange, dates back \nto the 14th century. It is located in the heart of the old town and is a testament to \nPerpignan's rich mercantile history. \n• \nCampo Santo: One of the largest and oldest cloister cemeteries in France, dating back \nto the 14th century. \n• \nFestival de Perpignan: An annual photojournalism festival, Visa pour l'Image, held in \nPerpignan, attracts photographers and journalists from around the world.",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "Avignon: The City of Popes \nAvignon, located on the banks of the Rhône River, is best known for its role as the seat of the \npapacy in the 14th century. The city was home to seven popes during this period, leaving a \nlasting legacy of impressive architecture and cultural heritage. \nKey Historical Sites in Avignon \n• \nPalais des Papes: This massive Gothic palace was the residence of the popes during \ntheir stay in Avignon. It is one of the largest and most important medieval Gothic \nbuildings in Europe. \n• \nPont Saint-Bénézet (Pont d'Avignon): This famous bridge, immortalized in the song \n\"Sur le Pont d'Avignon,\" was built in the 12th century. Although only a few arches \nremain, it is a UNESCO World Heritage site. \n• \nAvignon Cathedral: Located next to the Palais des Papes, this Romanesque cathedral \ndates back to the 12th century and features a gilded statue of the Virgin Mary. \n• \nPlace de l'Horloge: The main square in Avignon, this lively area is surrounded by \ncafes, restaurants, and historic buildings, including the 19th-century town hall and \nopera house. \n• \nRocher des Doms: This rocky outcrop oﬀers panoramic views of the Rhône River and \nthe surrounding countryside. It has been a strategic site since prehistoric times and \nnow features beautiful gardens5. \n• \nAvignon Festival: Established in 1947, the Avignon Festival is one of the most \nimportant contemporary performing arts events in the world, attracting artists and \naudiences from around the globe6.",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "Marseille: The Oldest City in France \nMarseille, founded by Greek sailors around 600 BC, is the oldest city in France. Its strategic \nlocation on the Mediterranean coast made it a vital trading port throughout history. The city's \nrich cultural heritage is reflected in its diverse architecture and vibrant atmosphere. \nKey Historical Sites in Marseille \n• \nOld Port (Vieux-Port): The heart of Marseille, the Old Port has been a bustling harbor \nfor over 2,600 years. Today, it is a lively area filled with cafes, restaurants, and \nmarkets. \n• \nBasilica of Notre-Dame de la Garde: This iconic basilica, perched on a hill \noverlooking the city, oﬀers panoramic views of Marseille and the Mediterranean Sea. \nBuilt in the 19th century, it is a symbol of the city's maritime heritage. \n• \nFort Saint-Jean: Constructed in the 17th century, this fort guards the entrance to the \nOld Port. It now houses part of the Museum of European and Mediterranean \nCivilizations (MuCEM). \n• \nLe Panier: The oldest district in Marseille, Le Panier is a maze of narrow streets, \ncolorful buildings, and historic landmarks. It's a great place to explore the city's past \nand enjoy its vibrant culture. \n• \nChâteau d'If: Commissioned by King Francis I in 1524, this fortress on the Île d'If \nbecame famous as a prison and was immortalized in Alexandre Dumas' novel \"The \nCount of Monte Cristo\"1. \n• \nLa Marseillaise: Marseille played a significant role during the French Revolution, and \nthe city's volunteers composed the national anthem of France, \"La Marseillaise\"2.",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "Montpellier: A University City with Medieval Charm \nMontpellier, founded in the 10th century, is known for its prestigious university and vibrant \ncultural scene. The city has a rich history, with a blend of medieval, Renaissance, and modern \narchitecture. \nKey Historical Sites in Montpellier \n• \nPlace de la Comédie: The central square of Montpellier, this bustling area is \nsurrounded by cafes, shops, and the impressive Opéra Comédie. It is a great place to \nstart exploring the city. \n• \nSaint-Pierre Cathedral: This Gothic cathedral, built in the 14th century, is known for its \nimposing facade and twin towers. It is the seat of the Archdiocese of Montpellier. \n• \nPromenade du Peyrou: This 17th-century promenade oﬀers stunning views of the city \nand features the Arc de Triomphe and the Château d'Eau, a beautiful water tower. \n• \nMusée Fabre: One of the most important art museums in France, the Musée Fabre \nhouses an extensive collection of European paintings, sculptures, and decorative arts. \n• \nUniversity of Montpellier: Founded in 1289, it is one of the oldest universities in the \nworld and has been a center of learning and culture for centuries. \n• \nJardin des Plantes: Established in 1593, it is the oldest botanical garden in France and \nwas created for the study of medicinal plants.",
+      "page_number": 10
+    }
+  ]
+}

@@ -1,0 +1,3204 @@
+{
+  "metadata": {
+    "input_documents": [
+      "South of France - Things to Do.pdf"
+    ],
+    "persona": "",
+    "job_to_be_done": "",
+    "processing_timestamp": "2025-07-28T14:33:36.323601"
+  },
+  "extracted_sections": [
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 1,
+      "section_title": "Ultimate Guide to Activities and Things to Do in the South of France",
+      "importance_rank": 1
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 1,
+      "section_title": "Introduction",
+      "importance_rank": 2
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 1,
+      "section_title": "The South of France, with its stunning coastline, picturesque villages, and vibrant cities, oﬀers",
+      "importance_rank": 3
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 1,
+      "section_title": "a wealth of activities and experiences for travelers. Whether you're seeking adventure,",
+      "importance_rank": 4
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 1,
+      "section_title": "relaxation, or cultural enrichment, this region has something for everyone. This guide will",
+      "importance_rank": 5
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 1,
+      "section_title": "take you through a variety of activities and must-see attractions to help you plan an",
+      "importance_rank": 6
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 2,
+      "section_title": "Coastal Adventures",
+      "importance_rank": 7
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 2,
+      "section_title": "The South of France is renowned for its beautiful coastline along the Mediterranean Sea. Here",
+      "importance_rank": 8
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 2,
+      "section_title": "are some activities to enjoy by the sea:",
+      "importance_rank": 9
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 2,
+      "section_title": "Beach Hopping",
+      "importance_rank": 10
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 2,
+      "section_title": "Nice",
+      "importance_rank": 11
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 2,
+      "section_title": ": Visit the sandy shores and enjoy the vibrant Promenade des Anglais.",
+      "importance_rank": 12
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 2,
+      "section_title": "Antibes",
+      "importance_rank": 13
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 2,
+      "section_title": ": Relax on the pebbled beaches and explore the charming old town.",
+      "importance_rank": 14
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 2,
+      "section_title": "Saint-Tropez",
+      "importance_rank": 15
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 2,
+      "section_title": ": Experience the exclusive beach clubs and glamorous atmosphere.",
+      "importance_rank": 16
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 2,
+      "section_title": "Marseille to Cassis",
+      "importance_rank": 17
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 2,
+      "section_title": ": Explore the stunning limestone cliﬀs and hidden coves of",
+      "importance_rank": 18
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 2,
+      "section_title": "Calanques National Park.",
+      "importance_rank": 19
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 2,
+      "section_title": "Îles d'Hyères",
+      "importance_rank": 20
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 2,
+      "section_title": ": Discover pristine beaches and excellent snorkeling opportunities on",
+      "importance_rank": 21
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 2,
+      "section_title": "islands like Porquerolles and Port-Cros.",
+      "importance_rank": 22
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 2,
+      "section_title": "Cannes",
+      "importance_rank": 23
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 2,
+      "section_title": ": Enjoy the sandy beaches and luxury beach clubs along the Boulevard de la",
+      "importance_rank": 24
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 2,
+      "section_title": "Croisette.",
+      "importance_rank": 25
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 2,
+      "section_title": "Menton",
+      "importance_rank": 26
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 2,
+      "section_title": ": Visit the serene beaches and beautiful gardens in this charming town near",
+      "importance_rank": 27
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 2,
+      "section_title": "the Italian border.",
+      "importance_rank": 28
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 2,
+      "section_title": "Water Sports",
+      "importance_rank": 29
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 2,
+      "section_title": "Cannes, Nice, and Saint-Tropez",
+      "importance_rank": 30
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 2,
+      "section_title": ": Try jet skiing or parasailing for a thrill.",
+      "importance_rank": 31
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 2,
+      "section_title": "Toulon",
+      "importance_rank": 32
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 2,
+      "section_title": ": Dive into the underwater world with scuba diving excursions to explore",
+      "importance_rank": 33
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 2,
+      "section_title": "wrecks.",
+      "importance_rank": 34
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 2,
+      "section_title": "Cerbère-Banyuls",
+      "importance_rank": 35
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 2,
+      "section_title": ": Visit the marine reserve for an unforgettable diving experience.",
+      "importance_rank": 36
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 2,
+      "section_title": "Mediterranean Coast",
+      "importance_rank": 37
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 2,
+      "section_title": ": Charter a yacht or join a sailing tour to explore the coastline",
+      "importance_rank": 38
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 2,
+      "section_title": "and nearby islands.",
+      "importance_rank": 39
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 2,
+      "section_title": "Marseille",
+      "importance_rank": 40
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 2,
+      "section_title": ": Go windsurfing or kitesurfing in the windy bays.",
+      "importance_rank": 41
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 2,
+      "section_title": "Port Grimaud",
+      "importance_rank": 42
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 2,
+      "section_title": ": Rent a paddleboard and explore the canals of this picturesque village.",
+      "importance_rank": 43
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 2,
+      "section_title": "La Ciotat",
+      "importance_rank": 44
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 3,
+      "section_title": "Cultural Experiences",
+      "importance_rank": 45
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 3,
+      "section_title": "The South of France is rich in history and culture. Here are some activities to immerse",
+      "importance_rank": 46
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 3,
+      "section_title": "yourself in the region's heritage:",
+      "importance_rank": 47
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 3,
+      "section_title": "Art and Museums",
+      "importance_rank": 48
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 3,
+      "section_title": ": Visit the Musée Matisse, dedicated to the works of Henri Matisse.",
+      "importance_rank": 49
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 3,
+      "section_title": ": Explore the Musée Picasso, housed in the Château Grimaldi.",
+      "importance_rank": 50
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 3,
+      "section_title": "Saint-Paul-de-Vence",
+      "importance_rank": 51
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 3,
+      "section_title": ": Discover modern art at the Fondation Maeght.",
+      "importance_rank": 52
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 3,
+      "section_title": "Aix-en-Provence",
+      "importance_rank": 53
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 3,
+      "section_title": ": Visit the Atelier Cézanne, the studio of the famous painter Paul",
+      "importance_rank": 54
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 3,
+      "section_title": "Cézanne.",
+      "importance_rank": 55
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 3,
+      "section_title": "Arles",
+      "importance_rank": 56
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 3,
+      "section_title": ": Explore the Fondation Vincent van Gogh, showcasing works inspired by the",
+      "importance_rank": 57
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 3,
+      "section_title": "artist.",
+      "importance_rank": 58
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 3,
+      "section_title": ": Visit the MuCEM (Museum of European and Mediterranean Civilizations)",
+      "importance_rank": 59
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 3,
+      "section_title": "for a deep dive into the region's history.",
+      "importance_rank": 60
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 3,
+      "section_title": "Toulouse",
+      "importance_rank": 61
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 3,
+      "section_title": ": Discover the Musée des Augustins, a fine arts museum housed in a former",
+      "importance_rank": 62
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 3,
+      "section_title": "convent.",
+      "importance_rank": 63
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 3,
+      "section_title": "Historical Sites",
+      "importance_rank": 64
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 3,
+      "section_title": "Nîmes",
+      "importance_rank": 65
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 3,
+      "section_title": ": Walk across the ancient Roman aqueduct, Pont du Gard.",
+      "importance_rank": 66
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 3,
+      "section_title": "Avignon",
+      "importance_rank": 67
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 3,
+      "section_title": ": Explore the largest Gothic palace in Europe, Palais des Papes.",
+      "importance_rank": 68
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 3,
+      "section_title": "Carcassonne",
+      "importance_rank": 69
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 3,
+      "section_title": ": Wander through the medieval citadel with its double walls and 52",
+      "importance_rank": 70
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 3,
+      "section_title": "towers.",
+      "importance_rank": 71
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 3,
+      "section_title": ": Visit the Roman amphitheater and ancient theater.",
+      "importance_rank": 72
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 3,
+      "section_title": "Orange",
+      "importance_rank": 73
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 3,
+      "section_title": ": Explore the well-preserved Roman theater and triumphal arch.",
+      "importance_rank": 74
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 3,
+      "section_title": "Aigues-Mortes",
+      "importance_rank": 75
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 3,
+      "section_title": ": Discover the medieval walled town and its salt marshes.",
+      "importance_rank": 76
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 3,
+      "section_title": "Grasse",
+      "importance_rank": 77
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 3,
+      "section_title": ": Visit the perfume factories and learn about the history of fragrance",
+      "importance_rank": 78
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 4,
+      "section_title": "Outdoor Activities",
+      "importance_rank": 79
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 4,
+      "section_title": "The diverse landscapes of the South of France oﬀer plenty of opportunities for outdoor",
+      "importance_rank": 80
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 4,
+      "section_title": "adventures:",
+      "importance_rank": 81
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 4,
+      "section_title": "Hiking and Biking",
+      "importance_rank": 82
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 4,
+      "section_title": "Verdon Gorge",
+      "importance_rank": 83
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 4,
+      "section_title": ": Known as the \"Grand Canyon of Europe,\" oﬀering spectacular hiking",
+      "importance_rank": 84
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 4,
+      "section_title": "trails.",
+      "importance_rank": 85
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 4,
+      "section_title": "Luberon Regional Park",
+      "importance_rank": 86
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 4,
+      "section_title": ": Explore picturesque villages and rolling hills, famous for",
+      "importance_rank": 87
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 4,
+      "section_title": "lavender fields and vineyards.",
+      "importance_rank": 88
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 4,
+      "section_title": "Pyrenees National Park",
+      "importance_rank": 89
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 4,
+      "section_title": ": Enjoy challenging hikes and stunning mountain scenery.",
+      "importance_rank": 90
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 4,
+      "section_title": "Mercantour National Park",
+      "importance_rank": 91
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 4,
+      "section_title": ": Discover diverse wildlife and beautiful alpine landscapes.",
+      "importance_rank": 92
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 4,
+      "section_title": "Camargue",
+      "importance_rank": 93
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 4,
+      "section_title": ": Explore the unique wetlands on horseback or by bike.",
+      "importance_rank": 94
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 4,
+      "section_title": "Mont Ventoux",
+      "importance_rank": 95
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 4,
+      "section_title": ": Challenge yourself with a hike or bike ride up this iconic mountain.",
+      "importance_rank": 96
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 4,
+      "section_title": "Gorges du Tarn",
+      "importance_rank": 97
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 4,
+      "section_title": ": Hike through dramatic gorges and enjoy breathtaking views.",
+      "importance_rank": 98
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 4,
+      "section_title": "Water Activities",
+      "importance_rank": 99
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 4,
+      "section_title": "Ardèche River",
+      "importance_rank": 100
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 4,
+      "section_title": ": Paddle through the stunning Ardèche Gorge.",
+      "importance_rank": 101
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 4,
+      "section_title": "Dordogne River",
+      "importance_rank": 102
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 4,
+      "section_title": ": Enjoy a leisurely canoe trip, passing by medieval castles and",
+      "importance_rank": 103
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 4,
+      "section_title": "charming villages.",
+      "importance_rank": 104
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 4,
+      "section_title": "Ubaye River",
+      "importance_rank": 105
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 4,
+      "section_title": ": Experience white-water rafting for an adrenaline rush.",
+      "importance_rank": 106
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 4,
+      "section_title": "Gorges du Verdon",
+      "importance_rank": 107
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 4,
+      "section_title": ": Rent a kayak or paddleboat to explore the turquoise waters.",
+      "importance_rank": 108
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 4,
+      "section_title": "Lake Sainte-Croix",
+      "importance_rank": 109
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 4,
+      "section_title": ": Enjoy swimming, sailing, and windsurfing on this beautiful lake.",
+      "importance_rank": 110
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 4,
+      "section_title": "Lake Serre-Ponçon",
+      "importance_rank": 111
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 4,
+      "section_title": ": Try water skiing or wakeboarding on one of the largest artificial",
+      "importance_rank": 112
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 4,
+      "section_title": "lakes in Europe.",
+      "importance_rank": 113
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 4,
+      "section_title": "Cévennes National Park",
+      "importance_rank": 114
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 5,
+      "section_title": "Culinary Delights",
+      "importance_rank": 115
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 5,
+      "section_title": "The South of France is a food lover's paradise. Here are some activities to indulge in the",
+      "importance_rank": 116
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 5,
+      "section_title": "region's culinary delights:",
+      "importance_rank": 117
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 5,
+      "section_title": "Wine Tasting",
+      "importance_rank": 118
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 5,
+      "section_title": "Provence",
+      "importance_rank": 119
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 5,
+      "section_title": ": Explore vineyards known for their rosé wines.",
+      "importance_rank": 120
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 5,
+      "section_title": "Languedoc",
+      "importance_rank": 121
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 5,
+      "section_title": ": Discover diverse wines, including reds, whites, and sparkling wines.",
+      "importance_rank": 122
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 5,
+      "section_title": "Châteauneuf-du-Pape",
+      "importance_rank": 123
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 5,
+      "section_title": ": Visit this famous wine region near Avignon.",
+      "importance_rank": 124
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 5,
+      "section_title": "Bandol",
+      "importance_rank": 125
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 5,
+      "section_title": ": Taste the robust red wines and refreshing rosés of this coastal region.",
+      "importance_rank": 126
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 5,
+      "section_title": "Côtes du Rhône",
+      "importance_rank": 127
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 5,
+      "section_title": ": Explore the vineyards along the Rhône River.",
+      "importance_rank": 128
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 5,
+      "section_title": "Gaillac",
+      "importance_rank": 129
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 5,
+      "section_title": ": Discover the unique wines of this lesser-known region.",
+      "importance_rank": 130
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 5,
+      "section_title": "Bordeaux",
+      "importance_rank": 131
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 5,
+      "section_title": ": Take a day trip to the world-renowned wine region and visit its prestigious",
+      "importance_rank": 132
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 5,
+      "section_title": "châteaux.",
+      "importance_rank": 133
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 5,
+      "section_title": "Cooking Classes",
+      "importance_rank": 134
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 5,
+      "section_title": ": Learn to prepare traditional dishes like ratatouille and bouillabaisse.",
+      "importance_rank": 135
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 5,
+      "section_title": "Périgord",
+      "importance_rank": 136
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 5,
+      "section_title": ": Join a truﬄe hunting tour followed by a cooking class.",
+      "importance_rank": 137
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 5,
+      "section_title": ": Take a class to master Niçoise cuisine, including dishes like salade niçoise and",
+      "importance_rank": 138
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 5,
+      "section_title": "socca.",
+      "importance_rank": 139
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 5,
+      "section_title": ": Learn to cook regional specialties such as cassoulet.",
+      "importance_rank": 140
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 5,
+      "section_title": ": Participate in a seafood cooking class to make dishes like bouillabaisse.",
+      "importance_rank": 141
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 5,
+      "section_title": "Lyon",
+      "importance_rank": 142
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 5,
+      "section_title": ": Discover the secrets of Lyonnaise cuisine with a hands-on cooking class.",
+      "importance_rank": 143
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 5,
+      "section_title": "Sarlat",
+      "importance_rank": 144
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 6,
+      "section_title": "Festivals and Events",
+      "importance_rank": 145
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 6,
+      "section_title": "The South of France hosts a variety of festivals and events throughout the year. Here are",
+      "importance_rank": 146
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 6,
+      "section_title": ": Attend the prestigious Cannes Film Festival in May.",
+      "importance_rank": 147
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 6,
+      "section_title": ": Experience the vibrant Nice Carnival in February.",
+      "importance_rank": 148
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 6,
+      "section_title": ": Enjoy the Avignon Festival in July, featuring theater, dance, and music",
+      "importance_rank": 149
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 6,
+      "section_title": "performances.",
+      "importance_rank": 150
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 6,
+      "section_title": ": Celebrate the Feria d'Arles, a traditional bullfighting festival held in April and",
+      "importance_rank": 151
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 6,
+      "section_title": ": Visit the Lemon Festival in February, featuring elaborate citrus-themed floats",
+      "importance_rank": 152
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 6,
+      "section_title": "and sculptures.",
+      "importance_rank": 153
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 6,
+      "section_title": ": Attend the Rose Festival in May, celebrating the town's famous flower.",
+      "importance_rank": 154
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 6,
+      "section_title": ": Experience the Fête de la Musique in June, with free concerts and",
+      "importance_rank": 155
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 7,
+      "section_title": "Relaxation and Wellness",
+      "importance_rank": 156
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 7,
+      "section_title": "For those seeking relaxation and rejuvenation, the South of France oﬀers plenty of options:",
+      "importance_rank": 157
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 7,
+      "section_title": "Spa and Wellness Retreats",
+      "importance_rank": 158
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 7,
+      "section_title": ": Visit Thermes Sextius for thermal baths and massages.",
+      "importance_rank": 159
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 7,
+      "section_title": ": Enjoy vinotherapy treatments at Les Sources de Caudalie.",
+      "importance_rank": 160
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 7,
+      "section_title": "Vichy",
+      "importance_rank": 161
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 7,
+      "section_title": ": Experience hydrotherapy and mud baths at Spa Vichy Célestins.",
+      "importance_rank": 162
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 7,
+      "section_title": "Evian-les-Bains",
+      "importance_rank": 163
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 7,
+      "section_title": ": Relax at the Evian Resort, known for its mineral-rich waters.",
+      "importance_rank": 164
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 7,
+      "section_title": "Saint-Raphaël",
+      "importance_rank": 165
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 7,
+      "section_title": ": Visit the Thalasso Spa for seawater treatments and relaxation.",
+      "importance_rank": 166
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 7,
+      "section_title": "Biarritz",
+      "importance_rank": 167
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 7,
+      "section_title": ": Enjoy the luxurious spas and wellness centers in this coastal town.",
+      "importance_rank": 168
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 7,
+      "section_title": ": Indulge in a pampering session at one of the many high-end spas.",
+      "importance_rank": 169
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 7,
+      "section_title": "Yoga and Meditation Retreats",
+      "importance_rank": 170
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 7,
+      "section_title": ": Join a yoga retreat in the serene countryside.",
+      "importance_rank": 171
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 7,
+      "section_title": "Pyrenees",
+      "importance_rank": 172
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 7,
+      "section_title": ": Escape to the mountains for a meditation retreat.",
+      "importance_rank": 173
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 7,
+      "section_title": "Côte d'Azur",
+      "importance_rank": 174
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 7,
+      "section_title": ": Combine relaxation with luxury at a wellness retreat.",
+      "importance_rank": 175
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 7,
+      "section_title": "Luberon",
+      "importance_rank": 176
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 7,
+      "section_title": ": Participate in a holistic retreat with yoga, meditation, and organic meals.",
+      "importance_rank": 177
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 7,
+      "section_title": ": Enjoy a retreat focused on mindfulness and nature immersion.",
+      "importance_rank": 178
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 7,
+      "section_title": ": Find tranquility at a yoga retreat overlooking the Mediterranean.",
+      "importance_rank": 179
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 7,
+      "section_title": "Corsica",
+      "importance_rank": 180
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 8,
+      "section_title": "shops:",
+      "importance_rank": 181
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 8,
+      "section_title": "Local Markets",
+      "importance_rank": 182
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 8,
+      "section_title": ": Explore the vibrant Cours Saleya Market.",
+      "importance_rank": 183
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 8,
+      "section_title": ": Visit Marché Forville for fresh seafood and local produce.",
+      "importance_rank": 184
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 8,
+      "section_title": ": Discover local products at Marché des Halles.",
+      "importance_rank": 185
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 8,
+      "section_title": ": Browse the stalls at the daily market on Place Richelme.",
+      "importance_rank": 186
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 8,
+      "section_title": "Saint-Rémy-de-Provence",
+      "importance_rank": 187
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 8,
+      "section_title": ": Enjoy the lively Wednesday market with local specialties.",
+      "importance_rank": 188
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 8,
+      "section_title": "Uzès",
+      "importance_rank": 189
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 8,
+      "section_title": ": Visit the Saturday market for fresh produce and artisanal goods.",
+      "importance_rank": 190
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 8,
+      "section_title": ": Explore the bustling market in the heart of the medieval town.",
+      "importance_rank": 191
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 8,
+      "section_title": "Boutique Shopping",
+      "importance_rank": 192
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 8,
+      "section_title": "Cannes: Shop along the famous Rue d'Antibes, lined with high-end boutiques,",
+      "importance_rank": 193
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 8,
+      "section_title": "designer stores, and luxury brands.",
+      "importance_rank": 194
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 8,
+      "section_title": "Aix-en-Provence: Browse shops and cafes on Cours Mirabeau, an elegant boulevard",
+      "importance_rank": 195
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 8,
+      "section_title": "with a variety of stores.",
+      "importance_rank": 196
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 8,
+      "section_title": "Nice: Find charming boutiques in the old town, oﬀering handmade soaps, ceramics,",
+      "importance_rank": 197
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 8,
+      "section_title": "and local crafts.",
+      "importance_rank": 198
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 8,
+      "section_title": "Saint-Tropez: Explore the chic boutiques and designer stores in this glamorous town.",
+      "importance_rank": 199
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 8,
+      "section_title": "Marseille: Visit the trendy shops in the Le Panier district, known for its artisan goods",
+      "importance_rank": 200
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 8,
+      "section_title": "and unique finds.",
+      "importance_rank": 201
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 8,
+      "section_title": "Montpellier: Discover the boutiques in the historic Écusson district, oﬀering fashion,",
+      "importance_rank": 202
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 8,
+      "section_title": "jewelry, and art.",
+      "importance_rank": 203
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 8,
+      "section_title": "Toulouse: Shop in the vibrant Capitole area, home to a mix of high-end and",
+      "importance_rank": 204
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 9,
+      "section_title": "Family-Friendly Activities",
+      "importance_rank": 205
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 9,
+      "section_title": "The South of France oﬀers a variety of activities that are perfect for families with children:",
+      "importance_rank": 206
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 9,
+      "section_title": "Theme Parks and Attractions",
+      "importance_rank": 207
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 9,
+      "section_title": "Antibes: Visit Marineland for marine shows and an aquarium.",
+      "importance_rank": 208
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 9,
+      "section_title": "Fréjus: Cool oﬀ at Aqualand water park.",
+      "importance_rank": 209
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 9,
+      "section_title": "Villeneuve-Loubet: Enjoy quirky attractions at Le Village des Fous.",
+      "importance_rank": 210
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 9,
+      "section_title": "Monteux: Spend a day at Parc Spirou, a theme park based on the famous comic book",
+      "importance_rank": 211
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 9,
+      "section_title": "character.",
+      "importance_rank": 212
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 9,
+      "section_title": "La Palmyre: Explore the La Palmyre Zoo, home to a wide variety of animals.",
+      "importance_rank": 213
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 9,
+      "section_title": "Cap d'Agde: Have fun at Luna Park, an amusement park with rides and games.",
+      "importance_rank": 214
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 9,
+      "section_title": "Toulouse: Visit the Cité de l'Espace, a space-themed science museum with interactive",
+      "importance_rank": 215
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 9,
+      "section_title": "exhibits.",
+      "importance_rank": 216
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 9,
+      "section_title": "Outdoor Adventures",
+      "importance_rank": 217
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 9,
+      "section_title": "Verdon Gorge: Take a family hike or rent paddle boats to explore the stunning Verdon",
+      "importance_rank": 218
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 9,
+      "section_title": "Gorge.",
+      "importance_rank": 219
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 9,
+      "section_title": "Camargue Natural Park: Explore wetlands with wild horses and flamingos, and enjoy",
+      "importance_rank": 220
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 9,
+      "section_title": "horseback riding, bird watching, and boat tours.",
+      "importance_rank": 221
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 9,
+      "section_title": "Various Locations: Try tree-top adventure parks with zip lines, rope bridges, and",
+      "importance_rank": 222
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 9,
+      "section_title": "climbing challenges.",
+      "importance_rank": 223
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 9,
+      "section_title": "Gorges du Tarn: Go on a family-friendly hike and enjoy the scenic views.",
+      "importance_rank": 224
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 9,
+      "section_title": "Lake Annecy: Rent bikes and ride along the lake's picturesque bike paths.",
+      "importance_rank": 225
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 9,
+      "section_title": "Pyrenees: Take a cable car ride for stunning mountain views and easy hiking trails.",
+      "importance_rank": 226
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 9,
+      "section_title": "Dordogne: Explore the region's caves and prehistoric sites with guided tours suitable",
+      "importance_rank": 227
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 9,
+      "section_title": "for children.",
+      "importance_rank": 228
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 9,
+      "section_title": "Educational Experiences",
+      "importance_rank": 229
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 9,
+      "section_title": "Toulouse: Visit Cité de l'Espace for a space-themed science museum with interactive",
+      "importance_rank": 230
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 10,
+      "section_title": "Monaco: Explore the Musée Océanographique and its marine exhibits, including a",
+      "importance_rank": 231
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 10,
+      "section_title": "shark lagoon and touch tanks.",
+      "importance_rank": 232
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 10,
+      "section_title": "Dordogne: See ancient cave paintings at prehistoric sites like Lascaux and Rouﬃgnac,",
+      "importance_rank": 233
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 10,
+      "section_title": "and visit museums dedicated to prehistoric life.",
+      "importance_rank": 234
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 10,
+      "section_title": "Montpellier: Discover the Planet Ocean World, an aquarium and planetarium with",
+      "importance_rank": 235
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 10,
+      "section_title": "interactive exhibits.",
+      "importance_rank": 236
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 10,
+      "section_title": "Carcassonne: Take a guided tour of the medieval citadel and learn about its history",
+      "importance_rank": 237
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 10,
+      "section_title": "and architecture.",
+      "importance_rank": 238
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 10,
+      "section_title": "Nîmes: Visit the Roman amphitheater and learn about ancient Roman history.",
+      "importance_rank": 239
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 10,
+      "section_title": "Arles: Explore the Roman ruins and the Musée de l'Arles Antique, which showcases",
+      "importance_rank": 240
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 11,
+      "section_title": "Nightlife and Entertainment",
+      "importance_rank": 241
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 11,
+      "section_title": "The South of France oﬀers a vibrant nightlife scene, with options ranging from chic bars to",
+      "importance_rank": 242
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 11,
+      "section_title": "lively nightclubs:",
+      "importance_rank": 243
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 11,
+      "section_title": "Bars and Lounges",
+      "importance_rank": 244
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 11,
+      "section_title": "Monaco: Enjoy classic cocktails and live jazz at Le Bar Americain, located in the Hôtel",
+      "importance_rank": 245
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 11,
+      "section_title": "de Paris.",
+      "importance_rank": 246
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 11,
+      "section_title": "Nice: Try creative cocktails at Le Comptoir du Marché, a trendy bar in the old town.",
+      "importance_rank": 247
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 11,
+      "section_title": "Cannes: Experience dining and entertainment at La Folie Douce, with live music, DJs,",
+      "importance_rank": 248
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 11,
+      "section_title": "and performances.",
+      "importance_rank": 249
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 11,
+      "section_title": "Marseille: Visit Le Trolleybus, a popular bar with multiple rooms and music styles.",
+      "importance_rank": 250
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 11,
+      "section_title": "Saint-Tropez: Relax at Bar du Port, known for its chic atmosphere and waterfront",
+      "importance_rank": 251
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 11,
+      "section_title": "views.",
+      "importance_rank": 252
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 11,
+      "section_title": "Montpellier: Enjoy craft cocktails at Papa Doble, a speakeasy-style bar.",
+      "importance_rank": 253
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 11,
+      "section_title": "Toulouse: Sip on cocktails at Fat Cat, a stylish bar with a vintage vibe.",
+      "importance_rank": 254
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 11,
+      "section_title": "Nightclubs",
+      "importance_rank": 255
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 11,
+      "section_title": "Saint-Tropez: Dance at the famous Les Caves du Roy, known for its glamorous",
+      "importance_rank": 256
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 11,
+      "section_title": "atmosphere and celebrity clientele.",
+      "importance_rank": 257
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 11,
+      "section_title": "Nice: Party at High Club on the Promenade des Anglais, featuring multiple dance",
+      "importance_rank": 258
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 11,
+      "section_title": "floors and top DJs.",
+      "importance_rank": 259
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 11,
+      "section_title": "Cannes: Enjoy the stylish setting and rooftop terrace at La Suite, oﬀering stunning",
+      "importance_rank": 260
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 11,
+      "section_title": "views of Cannes.",
+      "importance_rank": 261
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 11,
+      "section_title": "Marseille: Visit R2 Rooftop, a popular nightclub with panoramic views of the city and",
+      "importance_rank": 262
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 11,
+      "section_title": "the sea.",
+      "importance_rank": 263
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 11,
+      "section_title": "Monaco: Experience the exclusive Jimmy'z, a legendary nightclub with a luxurious",
+      "importance_rank": 264
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 11,
+      "section_title": "ambiance.",
+      "importance_rank": 265
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 11,
+      "section_title": "Montpellier: Dance the night away at L'Antirouille, a club known for its eclectic music",
+      "importance_rank": 266
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 11,
+      "section_title": "and lively atmosphere.",
+      "importance_rank": 267
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 11,
+      "section_title": "Toulouse: Check out Le Purple, a trendy nightclub with a vibrant dance floor and top-",
+      "importance_rank": 268
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 13,
+      "section_title": "Conclusion",
+      "importance_rank": 269
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 13,
+      "section_title": "The South of France is a diverse and enchanting region that oﬀers a wide range of activities",
+      "importance_rank": 270
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 13,
+      "section_title": "and experiences for travelers. Whether you're exploring the stunning coastline, immersing",
+      "importance_rank": 271
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 13,
+      "section_title": "yourself in the rich cultural heritage, or indulging in the culinary delights, there is something",
+      "importance_rank": 272
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 13,
+      "section_title": "for everyone to enjoy. From family-friendly adventures to vibrant nightlife, the South of",
+      "importance_rank": 273
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 13,
+      "section_title": "France promises an unforgettable journey filled with memories that will last a lifetime. Use",
+      "importance_rank": 274
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 6,
+      "section_title": "some not-to-miss celebrations:",
+      "importance_rank": 275
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 6,
+      "section_title": "September.",
+      "importance_rank": 276
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 8,
+      "section_title": "Shopping and Markets",
+      "importance_rank": 277
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 8,
+      "section_title": "The South of France is a shopper's paradise, with a variety of markets, boutiques, and artisan",
+      "importance_rank": 278
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 6,
+      "section_title": "performances throughout the city.",
+      "importance_rank": 279
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 10,
+      "section_title": "artifacts from the city's past.",
+      "importance_rank": 280
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 8,
+      "section_title": "independent stores.",
+      "importance_rank": 281
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 9,
+      "section_title": "exhibits, a planetarium, and a replica of the Mir space station.",
+      "importance_rank": 282
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 13,
+      "section_title": "this guide to plan your trip and make the most of everything this beautiful region has to oﬀer.",
+      "importance_rank": 283
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 11,
+      "section_title": "notch DJs.",
+      "importance_rank": 284
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 3,
+      "section_title": "production.",
+      "importance_rank": 285
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 2,
+      "section_title": ": Try snorkeling in the clear waters around the Île Verte.",
+      "importance_rank": 286
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 1,
+      "section_title": "unforgettable trip.",
+      "importance_rank": 287
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 4,
+      "section_title": ": Go canyoning in the rugged terrain of this beautiful park.",
+      "importance_rank": 288
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 5,
+      "section_title": ": Join a foie gras workshop and learn to prepare this delicacy.",
+      "importance_rank": 289
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 7,
+      "section_title": ": Experience a yoga and wellness retreat on this beautiful island.",
+      "importance_rank": 290
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 10
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 10
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 10
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 10
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 10
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 10
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 10
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 10
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 10
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 10
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 13
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 13
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 13
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 13
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 13
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 13
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "Festivals and Events \nThe South of France hosts a variety of festivals and events throughout the year. Here are \nsome not-to-miss celebrations: \n• \nCannes: Attend the prestigious Cannes Film Festival in May. \n• \nNice: Experience the vibrant Nice Carnival in February. \n• \nAvignon: Enjoy the Avignon Festival in July, featuring theater, dance, and music \nperformances. \n• \nArles: Celebrate the Feria d'Arles, a traditional bullfighting festival held in April and \nSeptember. \n• \nMenton: Visit the Lemon Festival in February, featuring elaborate citrus-themed floats \nand sculptures. \n• \nGrasse: Attend the Rose Festival in May, celebrating the town's famous flower. \n• \nMarseille: Experience the Fête de la Musique in June, with free concerts and \nperformances throughout the city.",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "• \nMonaco: Explore the Musée Océanographique and its marine exhibits, including a \nshark lagoon and touch tanks. \n• \nDordogne: See ancient cave paintings at prehistoric sites like Lascaux and Rouﬃgnac, \nand visit museums dedicated to prehistoric life. \n• \nMontpellier: Discover the Planet Ocean World, an aquarium and planetarium with \ninteractive exhibits. \n• \nCarcassonne: Take a guided tour of the medieval citadel and learn about its history \nand architecture. \n• \nNîmes: Visit the Roman amphitheater and learn about ancient Roman history. \n• \nArles: Explore the Roman ruins and the Musée de l'Arles Antique, which showcases \nartifacts from the city's past.",
+      "page_number": 10
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "Shopping and Markets \nThe South of France is a shopper's paradise, with a variety of markets, boutiques, and artisan \nshops: \nLocal Markets \n• \nNice: Explore the vibrant Cours Saleya Market. \n• \nCannes: Visit Marché Forville for fresh seafood and local produce. \n• \nAvignon: Discover local products at Marché des Halles. \n• \nAix-en-Provence: Browse the stalls at the daily market on Place Richelme. \n• \nSaint-Rémy-de-Provence: Enjoy the lively Wednesday market with local specialties. \n• \nUzès: Visit the Saturday market for fresh produce and artisanal goods. \n• \nSarlat: Explore the bustling market in the heart of the medieval town. \nBoutique Shopping \n• \nCannes: Shop along the famous Rue d'Antibes, lined with high-end boutiques, \ndesigner stores, and luxury brands. \n• \nAix-en-Provence: Browse shops and cafes on Cours Mirabeau, an elegant boulevard \nwith a variety of stores. \n• \nNice: Find charming boutiques in the old town, oﬀering handmade soaps, ceramics, \nand local crafts. \n• \nSaint-Tropez: Explore the chic boutiques and designer stores in this glamorous town. \n• \nMarseille: Visit the trendy shops in the Le Panier district, known for its artisan goods \nand unique finds. \n• \nMontpellier: Discover the boutiques in the historic Écusson district, oﬀering fashion, \njewelry, and art. \n• \nToulouse: Shop in the vibrant Capitole area, home to a mix of high-end and \nindependent stores.",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "Family-Friendly Activities \nThe South of France oﬀers a variety of activities that are perfect for families with children: \nTheme Parks and Attractions \n• \nAntibes: Visit Marineland for marine shows and an aquarium. \n• \nFréjus: Cool oﬀ at Aqualand water park. \n• \nVilleneuve-Loubet: Enjoy quirky attractions at Le Village des Fous. \n• \nMonteux: Spend a day at Parc Spirou, a theme park based on the famous comic book \ncharacter. \n• \nLa Palmyre: Explore the La Palmyre Zoo, home to a wide variety of animals. \n• \nCap d'Agde: Have fun at Luna Park, an amusement park with rides and games. \n• \nToulouse: Visit the Cité de l'Espace, a space-themed science museum with interactive \nexhibits. \nOutdoor Adventures \n• \nVerdon Gorge: Take a family hike or rent paddle boats to explore the stunning Verdon \nGorge. \n• \nCamargue Natural Park: Explore wetlands with wild horses and flamingos, and enjoy \nhorseback riding, bird watching, and boat tours. \n• \nVarious Locations: Try tree-top adventure parks with zip lines, rope bridges, and \nclimbing challenges. \n• \nGorges du Tarn: Go on a family-friendly hike and enjoy the scenic views. \n• \nLake Annecy: Rent bikes and ride along the lake's picturesque bike paths. \n• \nPyrenees: Take a cable car ride for stunning mountain views and easy hiking trails. \n• \nDordogne: Explore the region's caves and prehistoric sites with guided tours suitable \nfor children. \nEducational Experiences \n• \nToulouse: Visit Cité de l'Espace for a space-themed science museum with interactive \nexhibits, a planetarium, and a replica of the Mir space station.",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "Conclusion \nThe South of France is a diverse and enchanting region that oﬀers a wide range of activities \nand experiences for travelers. Whether you're exploring the stunning coastline, immersing \nyourself in the rich cultural heritage, or indulging in the culinary delights, there is something \nfor everyone to enjoy. From family-friendly adventures to vibrant nightlife, the South of \nFrance promises an unforgettable journey filled with memories that will last a lifetime. Use \nthis guide to plan your trip and make the most of everything this beautiful region has to oﬀer.",
+      "page_number": 13
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "Nightlife and Entertainment \nThe South of France oﬀers a vibrant nightlife scene, with options ranging from chic bars to \nlively nightclubs: \nBars and Lounges \n• \nMonaco: Enjoy classic cocktails and live jazz at Le Bar Americain, located in the Hôtel \nde Paris. \n• \nNice: Try creative cocktails at Le Comptoir du Marché, a trendy bar in the old town. \n• \nCannes: Experience dining and entertainment at La Folie Douce, with live music, DJs, \nand performances. \n• \nMarseille: Visit Le Trolleybus, a popular bar with multiple rooms and music styles. \n• \nSaint-Tropez: Relax at Bar du Port, known for its chic atmosphere and waterfront \nviews. \n• \nMontpellier: Enjoy craft cocktails at Papa Doble, a speakeasy-style bar. \n• \nToulouse: Sip on cocktails at Fat Cat, a stylish bar with a vintage vibe. \nNightclubs \n• \nSaint-Tropez: Dance at the famous Les Caves du Roy, known for its glamorous \natmosphere and celebrity clientele. \n• \nNice: Party at High Club on the Promenade des Anglais, featuring multiple dance \nfloors and top DJs. \n• \nCannes: Enjoy the stylish setting and rooftop terrace at La Suite, oﬀering stunning \nviews of Cannes. \n• \nMarseille: Visit R2 Rooftop, a popular nightclub with panoramic views of the city and \nthe sea. \n• \nMonaco: Experience the exclusive Jimmy'z, a legendary nightclub with a luxurious \nambiance. \n• \nMontpellier: Dance the night away at L'Antirouille, a club known for its eclectic music \nand lively atmosphere. \n• \nToulouse: Check out Le Purple, a trendy nightclub with a vibrant dance floor and top-\nnotch DJs.",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "Cultural Experiences \nThe South of France is rich in history and culture. Here are some activities to immerse \nyourself in the region's heritage: \nArt and Museums \n• \nNice: Visit the Musée Matisse, dedicated to the works of Henri Matisse. \n• \nAntibes: Explore the Musée Picasso, housed in the Château Grimaldi. \n• \nSaint-Paul-de-Vence: Discover modern art at the Fondation Maeght. \n• \nAix-en-Provence: Visit the Atelier Cézanne, the studio of the famous painter Paul \nCézanne. \n• \nArles: Explore the Fondation Vincent van Gogh, showcasing works inspired by the \nartist. \n• \nMarseille: Visit the MuCEM (Museum of European and Mediterranean Civilizations) \nfor a deep dive into the region's history. \n• \nToulouse: Discover the Musée des Augustins, a fine arts museum housed in a former \nconvent. \nHistorical Sites \n• \nNîmes: Walk across the ancient Roman aqueduct, Pont du Gard. \n• \nAvignon: Explore the largest Gothic palace in Europe, Palais des Papes. \n• \nCarcassonne: Wander through the medieval citadel with its double walls and 52 \ntowers. \n• \nArles: Visit the Roman amphitheater and ancient theater. \n• \nOrange: Explore the well-preserved Roman theater and triumphal arch. \n• \nAigues-Mortes: Discover the medieval walled town and its salt marshes. \n• \nGrasse: Visit the perfume factories and learn about the history of fragrance \nproduction.",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "Coastal Adventures \nThe South of France is renowned for its beautiful coastline along the Mediterranean Sea. Here \nare some activities to enjoy by the sea: \nBeach Hopping \n• \nNice: Visit the sandy shores and enjoy the vibrant Promenade des Anglais. \n• \nAntibes: Relax on the pebbled beaches and explore the charming old town. \n• \nSaint-Tropez: Experience the exclusive beach clubs and glamorous atmosphere. \n• \nMarseille to Cassis: Explore the stunning limestone cliﬀs and hidden coves of \nCalanques National Park. \n• \nÎles d'Hyères: Discover pristine beaches and excellent snorkeling opportunities on \nislands like Porquerolles and Port-Cros. \n• \nCannes: Enjoy the sandy beaches and luxury beach clubs along the Boulevard de la \nCroisette. \n• \nMenton: Visit the serene beaches and beautiful gardens in this charming town near \nthe Italian border. \nWater Sports \n• \nCannes, Nice, and Saint-Tropez: Try jet skiing or parasailing for a thrill. \n• \nToulon: Dive into the underwater world with scuba diving excursions to explore \nwrecks. \n• \nCerbère-Banyuls: Visit the marine reserve for an unforgettable diving experience. \n• \nMediterranean Coast: Charter a yacht or join a sailing tour to explore the coastline \nand nearby islands. \n• \nMarseille: Go windsurfing or kitesurfing in the windy bays. \n• \nPort Grimaud: Rent a paddleboard and explore the canals of this picturesque village. \n• \nLa Ciotat: Try snorkeling in the clear waters around the Île Verte.",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "Ultimate Guide to Activities and Things to Do in the South of France \nIntroduction \nThe South of France, with its stunning coastline, picturesque villages, and vibrant cities, oﬀers \na wealth of activities and experiences for travelers. Whether you're seeking adventure, \nrelaxation, or cultural enrichment, this region has something for everyone. This guide will \ntake you through a variety of activities and must-see attractions to help you plan an \nunforgettable trip.",
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "Outdoor Activities \nThe diverse landscapes of the South of France oﬀer plenty of opportunities for outdoor \nadventures: \nHiking and Biking \n• \nVerdon Gorge: Known as the \"Grand Canyon of Europe,\" oﬀering spectacular hiking \ntrails. \n• \nLuberon Regional Park: Explore picturesque villages and rolling hills, famous for \nlavender fields and vineyards. \n• \nPyrenees National Park: Enjoy challenging hikes and stunning mountain scenery. \n• \nMercantour National Park: Discover diverse wildlife and beautiful alpine landscapes. \n• \nCamargue: Explore the unique wetlands on horseback or by bike. \n• \nMont Ventoux: Challenge yourself with a hike or bike ride up this iconic mountain. \n• \nGorges du Tarn: Hike through dramatic gorges and enjoy breathtaking views. \nWater Activities \n• \nArdèche River: Paddle through the stunning Ardèche Gorge. \n• \nDordogne River: Enjoy a leisurely canoe trip, passing by medieval castles and \ncharming villages. \n• \nUbaye River: Experience white-water rafting for an adrenaline rush. \n• \nGorges du Verdon: Rent a kayak or paddleboat to explore the turquoise waters. \n• \nLake Sainte-Croix: Enjoy swimming, sailing, and windsurfing on this beautiful lake. \n• \nLake Serre-Ponçon: Try water skiing or wakeboarding on one of the largest artificial \nlakes in Europe. \n• \nCévennes National Park: Go canyoning in the rugged terrain of this beautiful park.",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "Culinary Delights \nThe South of France is a food lover's paradise. Here are some activities to indulge in the \nregion's culinary delights: \nWine Tasting \n• \nProvence: Explore vineyards known for their rosé wines. \n• \nLanguedoc: Discover diverse wines, including reds, whites, and sparkling wines. \n• \nChâteauneuf-du-Pape: Visit this famous wine region near Avignon. \n• \nBandol: Taste the robust red wines and refreshing rosés of this coastal region. \n• \nCôtes du Rhône: Explore the vineyards along the Rhône River. \n• \nGaillac: Discover the unique wines of this lesser-known region. \n• \nBordeaux: Take a day trip to the world-renowned wine region and visit its prestigious \nchâteaux. \nCooking Classes \n• \nProvence: Learn to prepare traditional dishes like ratatouille and bouillabaisse. \n• \nPérigord: Join a truﬄe hunting tour followed by a cooking class. \n• \nNice: Take a class to master Niçoise cuisine, including dishes like salade niçoise and \nsocca. \n• \nToulouse: Learn to cook regional specialties such as cassoulet. \n• \nMarseille: Participate in a seafood cooking class to make dishes like bouillabaisse. \n• \nLyon: Discover the secrets of Lyonnaise cuisine with a hands-on cooking class. \n• \nSarlat: Join a foie gras workshop and learn to prepare this delicacy.",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "Relaxation and Wellness \nFor those seeking relaxation and rejuvenation, the South of France oﬀers plenty of options: \nSpa and Wellness Retreats \n• \nAix-en-Provence: Visit Thermes Sextius for thermal baths and massages. \n• \nBordeaux: Enjoy vinotherapy treatments at Les Sources de Caudalie. \n• \nVichy: Experience hydrotherapy and mud baths at Spa Vichy Célestins. \n• \nEvian-les-Bains: Relax at the Evian Resort, known for its mineral-rich waters. \n• \nSaint-Raphaël: Visit the Thalasso Spa for seawater treatments and relaxation. \n• \nBiarritz: Enjoy the luxurious spas and wellness centers in this coastal town. \n• \nCannes: Indulge in a pampering session at one of the many high-end spas. \nYoga and Meditation Retreats \n• \nProvence: Join a yoga retreat in the serene countryside. \n• \nPyrenees: Escape to the mountains for a meditation retreat. \n• \nCôte d'Azur: Combine relaxation with luxury at a wellness retreat. \n• \nLuberon: Participate in a holistic retreat with yoga, meditation, and organic meals. \n• \nCamargue: Enjoy a retreat focused on mindfulness and nature immersion. \n• \nSaint-Tropez: Find tranquility at a yoga retreat overlooking the Mediterranean. \n• \nCorsica: Experience a yoga and wellness retreat on this beautiful island.",
+      "page_number": 7
+    }
+  ]
+}

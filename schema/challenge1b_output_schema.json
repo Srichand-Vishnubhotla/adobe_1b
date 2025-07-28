@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "input_documents": ["list"],
+    "persona": "User Persona",
+    "job_to_be_done": "Task description"
+  },
+  "extracted_sections": [
+    {
+      "document": "source.pdf",
+      "section_title": "Title",
+      "importance_rank": 1,
+      "page_number": 1
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "source.pdf",
+      "refined_text": "Content",
+      "page_number": 1
+    }
+  ]
+}

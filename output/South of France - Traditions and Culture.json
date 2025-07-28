@@ -1,0 +1,1345 @@
+{
+  "metadata": {
+    "input_documents": [
+      "South of France - Traditions and Culture.pdf"
+    ],
+    "persona": "",
+    "job_to_be_done": "",
+    "processing_timestamp": "2025-07-28T14:33:37.791142"
+  },
+  "extracted_sections": [
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 1,
+      "section_title": "A Comprehensive Guide to Traditions and Culture in the South of France",
+      "importance_rank": 1
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 1,
+      "section_title": "Introduction",
+      "importance_rank": 2
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 1,
+      "section_title": "The South of France, with its picturesque landscapes, charming villages, and vibrant cities, is",
+      "importance_rank": 3
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 1,
+      "section_title": "not only a feast for the eyes but also a treasure trove of cultural traditions and heritage. This",
+      "importance_rank": 4
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 1,
+      "section_title": "region, known for its rich history and diverse influences, oﬀers a unique blend of customs,",
+      "importance_rank": 5
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 1,
+      "section_title": "festivals, and local practices that reflect its distinct identity. This guide will take you through",
+      "importance_rank": 6
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 1,
+      "section_title": "the various traditions and cultural aspects of the South of France, providing a deep",
+      "importance_rank": 7
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 2,
+      "section_title": "The Provençal language, also known as Occitan, has been a significant part of the cultural",
+      "importance_rank": 8
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 2,
+      "section_title": "identity of the South of France. Although French is the dominant language today, Provençal",
+      "importance_rank": 9
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 2,
+      "section_title": "was widely spoken until the 19th century. It is still preserved in literature, music, and local",
+      "importance_rank": 10
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 2,
+      "section_title": "expressions. Eﬀorts to revive and promote the language continue, with festivals and",
+      "importance_rank": 11
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 2,
+      "section_title": "educational programs dedicated to its preservation.",
+      "importance_rank": 12
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 2,
+      "section_title": "Literature and Poetry",
+      "importance_rank": 13
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 2,
+      "section_title": "The South of France has inspired many writers and poets over the centuries. The troubadours",
+      "importance_rank": 14
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 2,
+      "section_title": "of the medieval period, who composed and performed lyrical poetry, were particularly",
+      "importance_rank": 15
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 2,
+      "section_title": "influential. Their works often celebrated chivalry, love, and nature. The region's literary",
+      "importance_rank": 16
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 2,
+      "section_title": "Festivals and Celebrations",
+      "importance_rank": 17
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 2,
+      "section_title": "Carnival of Nice",
+      "importance_rank": 18
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 2,
+      "section_title": "Held in Nice from mid-February to early March, the Carnival of Nice is one of the most",
+      "importance_rank": 19
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 2,
+      "section_title": "famous and oldest carnivals in the world. The festivities include parades with elaborate floats,",
+      "importance_rank": 20
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 2,
+      "section_title": "street performances, and fireworks. The Battle of Flowers, where participants throw flowers",
+      "importance_rank": 21
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 2,
+      "section_title": "into the crowd, is a highlight of the event. The carnival's vibrant atmosphere and colorful",
+      "importance_rank": 22
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 2,
+      "section_title": "displays attract visitors from all over the world.",
+      "importance_rank": 23
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 2,
+      "section_title": "Fête de la Musique",
+      "importance_rank": 24
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 2,
+      "section_title": "and professional musicians perform in streets, squares, and parks. The festival promotes a",
+      "importance_rank": 25
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 2,
+      "section_title": "diverse range of musical genres and encourages community participation.",
+      "importance_rank": 26
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 2,
+      "section_title": "Transhumance Festivals",
+      "importance_rank": 27
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 2,
+      "section_title": "Transhumance, the seasonal migration of livestock to higher pastures, is a tradition that dates",
+      "importance_rank": 28
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 2,
+      "section_title": "back centuries. Although modern transportation has replaced much of the traditional",
+      "importance_rank": 29
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 2,
+      "section_title": "practice, transhumance festivals are still celebrated in many villages, particularly in Saint-",
+      "importance_rank": 30
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 3,
+      "section_title": "accompanied by shepherds and their dogs. It's a unique opportunity to witness a living",
+      "importance_rank": 31
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 3,
+      "section_title": "Pétanque",
+      "importance_rank": 32
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 3,
+      "section_title": "Pétanque is a popular game in the South of France, particularly in Provence. Played with",
+      "importance_rank": 33
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 3,
+      "section_title": "metal balls on a gravel surface, the objective is to throw the balls as close as possible to a",
+      "importance_rank": 34
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 3,
+      "section_title": "small wooden ball called the cochonnet. Pétanque is more than just a game; it's a social",
+      "importance_rank": 35
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 3,
+      "section_title": "activity that brings people together in village squares and parks. The relaxed atmosphere and",
+      "importance_rank": 36
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 3,
+      "section_title": "friendly competition make it a beloved pastime.",
+      "importance_rank": 37
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 3,
+      "section_title": "Course Camarguaise",
+      "importance_rank": 38
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 3,
+      "section_title": "The Course Camarguaise is a traditional bullfighting sport unique to the Camargue region.",
+      "importance_rank": 39
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 3,
+      "section_title": "bravery as they dodge the bull's charges. The sport is deeply rooted in local culture and is",
+      "importance_rank": 40
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 3,
+      "section_title": "often accompanied by music and festivities, particularly in Arles from April to October.",
+      "importance_rank": 41
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 3,
+      "section_title": "Culinary Traditions",
+      "importance_rank": 42
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 3,
+      "section_title": "Provençal Cuisine",
+      "importance_rank": 43
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 3,
+      "section_title": "Provençal cuisine is characterized by its use of fresh, local ingredients and Mediterranean",
+      "importance_rank": 44
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 3,
+      "section_title": "flavors. Olive oil, garlic, tomatoes, and herbs such as thyme, rosemary, and basil are staples in",
+      "importance_rank": 45
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 3,
+      "section_title": "Provençal dishes. Some iconic dishes include ratatouille, a vegetable stew; bouillabaisse, a",
+      "importance_rank": 46
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 3,
+      "section_title": "fish soup; and tapenade, an olive spread. Provençal cuisine reflects the region's agricultural",
+      "importance_rank": 47
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 3,
+      "section_title": "The South of France is renowned for its wine production, with regions such as Provence,",
+      "importance_rank": 48
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 3,
+      "section_title": "Languedoc, and the Rhône Valley producing some of the finest wines in the world. Wine is an",
+      "importance_rank": 49
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 3,
+      "section_title": "integral part of the local culture, and vineyards often host tours and tastings. The tradition of",
+      "importance_rank": 50
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 3,
+      "section_title": "winemaking dates back to Roman times, and the region's diverse terroir contributes to a wide",
+      "importance_rank": 51
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 3,
+      "section_title": "variety of wine styles.",
+      "importance_rank": 52
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 4,
+      "section_title": "Truﬄes, often referred to as \"black diamonds,\" are a prized delicacy in the South of France.",
+      "importance_rank": 53
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 4,
+      "section_title": "The region's truﬄe season, which runs from November to March, is marked by truﬄe markets",
+      "importance_rank": 54
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 4,
+      "section_title": "blessed by the local priest.",
+      "importance_rank": 55
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 4,
+      "section_title": "Arts and Crafts",
+      "importance_rank": 56
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 4,
+      "section_title": "Pottery and Ceramics",
+      "importance_rank": 57
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 4,
+      "section_title": "The South of France has a rich tradition of pottery and ceramics, with towns like Vallauris and",
+      "importance_rank": 58
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 4,
+      "section_title": "Biot being renowned for their craftsmanship. Artisans create a wide range of items, from",
+      "importance_rank": 59
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 4,
+      "section_title": "functional tableware to decorative pieces. The region's pottery often features vibrant colors",
+      "importance_rank": 60
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 4,
+      "section_title": "and intricate designs, reflecting the local landscape and culture.",
+      "importance_rank": 61
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 4,
+      "section_title": "Lavender Products",
+      "importance_rank": 62
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 4,
+      "section_title": "essential oils, soaps, and sachets. Lavender festivals, such as the one in Sault in July, celebrate",
+      "importance_rank": 63
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 4,
+      "section_title": "the harvest with parades, music, and markets. Visitors can also tour lavender farms and",
+      "importance_rank": 64
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 4,
+      "section_title": "distilleries to learn about the production process.",
+      "importance_rank": 65
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 4,
+      "section_title": "Religious and Spiritual Traditions",
+      "importance_rank": 66
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 4,
+      "section_title": "Pilgrims come to Lourdes to visit the Sanctuary of Our Lady of Lourdes, where the Virgin",
+      "importance_rank": 67
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 4,
+      "section_title": "Saint Sara.",
+      "importance_rank": 68
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 4,
+      "section_title": "Christmas Traditions",
+      "importance_rank": 69
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 4,
+      "section_title": "Christmas in Provence is marked by unique traditions that reflect the region's cultural",
+      "importance_rank": 70
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 4,
+      "section_title": "heritage. One of the most distinctive customs is the \"13 Desserts,\" a feast of thirteen diﬀerent",
+      "importance_rank": 71
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 4,
+      "section_title": "sweets served after Midnight Mass on Christmas Eve. The number represents Jesus and the",
+      "importance_rank": 72
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 5,
+      "section_title": "used to create nativity scenes. Santon fairs, such as the one in Marseille, oﬀer a wide variety",
+      "importance_rank": 73
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 5,
+      "section_title": "of these charming figures.",
+      "importance_rank": 74
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 5,
+      "section_title": "Provençal folk music is an essential part of the region's cultural identity. Traditional",
+      "importance_rank": 75
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 5,
+      "section_title": "instruments, such as the galoubet (a type of flute) and tambourin (a drum), are often used in",
+      "importance_rank": 76
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 5,
+      "section_title": "folk music performances. The music is characterized by lively rhythms and melodies that",
+      "importance_rank": 77
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 5,
+      "section_title": "reflect the region's festive spirit. Folk dances, such as the farandole, are performed at festivals",
+      "importance_rank": 78
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 5,
+      "section_title": "and celebrations, with participants forming long chains and weaving through the streets.",
+      "importance_rank": 79
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 5,
+      "section_title": "Jazz Manouche",
+      "importance_rank": 80
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 5,
+      "section_title": "The South of France has a rich tradition of Jazz manouche. This genre was popularized by the",
+      "importance_rank": 81
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 5,
+      "section_title": "legendary guitarist Django Reinhardt, who was born in Belgium but spent much of his life in",
+      "importance_rank": 82
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 5,
+      "section_title": "celebrates his legacy with performances by top jazz manouche musicians.",
+      "importance_rank": 83
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 5,
+      "section_title": "Conclusion",
+      "importance_rank": 84
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 5,
+      "section_title": "The South of France is a region steeped in traditions and cultural heritage that reflect its",
+      "importance_rank": 85
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 5,
+      "section_title": "diverse history and influences. From the Provençal language and literature to the vibrant",
+      "importance_rank": 86
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 5,
+      "section_title": "festivals and culinary delights, the region oﬀers a rich tapestry of customs and practices that",
+      "importance_rank": 87
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 5,
+      "section_title": "continue to thrive today. Whether you're exploring the picturesque villages, participating in",
+      "importance_rank": 88
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 5,
+      "section_title": "local celebrations, or savoring the flavors of Provençal cuisine, you'll find that the traditions",
+      "importance_rank": 89
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 5,
+      "section_title": "and culture of the South of France provide a deep and enriching experience. Use this guide to",
+      "importance_rank": 90
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 2,
+      "section_title": "Language and Literature",
+      "importance_rank": 91
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 2,
+      "section_title": "Provençal Language",
+      "importance_rank": 92
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 2,
+      "section_title": "heritage also includes famous authors like Marcel Pagnol, whose novels and plays vividly",
+      "importance_rank": 93
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 2,
+      "section_title": "depict Provençal life.",
+      "importance_rank": 94
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 2,
+      "section_title": "Celebrated on June 21st, the Fête de la Musique is a nationwide music festival that originated",
+      "importance_rank": 95
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 2,
+      "section_title": "in France. In the South of France, cities and towns come alive with music, as both amateur",
+      "importance_rank": 96
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 3,
+      "section_title": "tradition and enjoy local food and music.",
+      "importance_rank": 97
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 3,
+      "section_title": "Traditional Sports and Games",
+      "importance_rank": 98
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 3,
+      "section_title": "Unlike Spanish bullfighting, the objective is not to harm the bull but to remove ribbons and",
+      "importance_rank": 99
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 3,
+      "section_title": "other decorations from its horns. The razeteurs, or participants, demonstrate agility and",
+      "importance_rank": 100
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 3,
+      "section_title": "heritage and its emphasis on simple, flavorful cooking.",
+      "importance_rank": 101
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 3,
+      "section_title": "Wine and Vineyards",
+      "importance_rank": 102
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 4,
+      "section_title": "and festivals. Truﬄe hunting, typically done with trained dogs or pigs, is a time-honored",
+      "importance_rank": 103
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 4,
+      "section_title": "tradition. The town of Richerenches hosts a truﬄe mass every January, where truﬄes are",
+      "importance_rank": 104
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 4,
+      "section_title": "Lavender is synonymous with Provence, and the region's lavender fields are a major",
+      "importance_rank": 105
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 4,
+      "section_title": "attraction. The fragrant flowers are harvested to produce a variety of products, including",
+      "importance_rank": 106
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 4,
+      "section_title": "Pilgrimages",
+      "importance_rank": 107
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 4,
+      "section_title": "The South of France is home to several important pilgrimage sites. The town of Lourdes,",
+      "importance_rank": 108
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 4,
+      "section_title": "located in the Pyrenees, is one of the most famous, attracting millions of visitors each year.",
+      "importance_rank": 109
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 4,
+      "section_title": "Mary is said to have appeared to a young girl in 1858. The town of Saintes-Maries-de-la-Mer",
+      "importance_rank": 110
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 4,
+      "section_title": "is another significant pilgrimage site, particularly for the Romani community, who venerate",
+      "importance_rank": 111
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 5,
+      "section_title": "Music and Dance",
+      "importance_rank": 112
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 5,
+      "section_title": "Provençal Folk Music",
+      "importance_rank": 113
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 5,
+      "section_title": "the South of France. Jazz manouche is characterized by its fast tempos, virtuosic guitar",
+      "importance_rank": 114
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 5,
+      "section_title": "playing, and swing rhythms. The annual Django Reinhardt Festival in Samois-sur-Seine",
+      "importance_rank": 115
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 5,
+      "section_title": "immerse yourself in the unique cultural landscape of this beautiful region and create lasting",
+      "importance_rank": 116
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 3,
+      "section_title": "Truﬄe Hunting",
+      "importance_rank": 117
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 4,
+      "section_title": "twelve apostles. Another tradition is the \"santon\" figurines, which are handcrafted clay figures",
+      "importance_rank": 118
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 5,
+      "section_title": "memories of your journey.",
+      "importance_rank": 119
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 1,
+      "section_title": "understanding of what makes this region so special.",
+      "importance_rank": 120
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 2,
+      "section_title": "Rémy-de-Provence in May. These festivals feature parades of sheep, goats, and cattle,",
+      "importance_rank": 121
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "accompanied by shepherds and their dogs. It's a unique opportunity to witness a living tradition and enjoy local food and music. Traditional Sports and Games Pétanque Pétanque is a popular game in the South of France, particularly in Provence. Played with metal balls on a gravel surface, the objective is to throw the balls as close as possible to a small wooden ball called the cochonnet. Pétanque is more than just a game; it's a social activity that brings people together in village squares and parks. The relaxed atmosphere and friendly competition make it a beloved pastime. Course Camarguaise The Course Camarguaise is a traditional bullfighting sport unique to the Camargue region. Unlike Spanish bullfighting, the objective is not to harm the bull but to remove ribbons and other decorations from its horns. The razeteurs, or participants, demonstrate agility and bravery as they dodge the bull's charges. The sport is deeply rooted in local culture and is often accompanied by music and festivities, particularly in Arles from April to October. Culinary Traditions Provençal Cuisine Provençal cuisine is characterized by its use of fresh, local ingredients and Mediterranean flavors. Olive oil, garlic, tomatoes, and herbs such as thyme, rosemary, and basil are staples in Provençal dishes. Some iconic dishes include ratatouille, a vegetable stew; bouillabaisse, a fish soup; and tapenade, an olive spread. Provençal cuisine reflects the region's agricultural heritage and its emphasis on simple, flavorful cooking. Wine and Vineyards The South of France is renowned for its wine production, with regions such as Provence, Languedoc, and the Rhône Valley producing some of the finest wines in the world. Wine is an integral part of the local culture, and vineyards often host tours and tastings. The tradition of winemaking dates back to Roman times, and the region's diverse terroir contributes to",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "Truﬄes, often referred to as \"black diamonds,\" are a prized delicacy in the South of France. The region's truﬄe season, which runs from November to March, is marked by truﬄe markets and festivals. Truﬄe hunting, typically done with trained dogs or pigs, is a time-honored tradition. The town of Richerenches hosts a truﬄe mass every January, where truﬄes are blessed by the local priest. Arts and Crafts Pottery and Ceramics The South of France has a rich tradition of pottery and ceramics, with towns like Vallauris and Biot being renowned for their craftsmanship. Artisans create a wide range of items, from functional tableware to decorative pieces. The region's pottery often features vibrant colors and intricate designs, reflecting the local landscape and culture. Lavender Products Lavender is synonymous with Provence, and the region's lavender fields are a major attraction. The fragrant flowers are harvested to produce a variety of products, including essential oils, soaps, and sachets. Lavender festivals, such as the one in Sault in July, celebrate the harvest with parades, music, and markets. Visitors can also tour lavender farms and distilleries to learn about the production process. Religious and Spiritual Traditions Pilgrimages The South of France is home to several important pilgrimage sites. The town of Lourdes, located in the Pyrenees, is one of the most famous, attracting millions of visitors each year. Pilgrims come to Lourdes to visit the Sanctuary of Our Lady of Lourdes, where the Virgin Mary is said to have appeared to a young girl in 1858. The town of Saintes-Maries-de-la-Mer is another significant pilgrimage site, particularly for the Romani community, who venerate Saint Sara. Christmas Traditions Christmas in Provence is marked by unique traditions that reflect the region's cultural heritage. One of the most distinctive customs is the \"13 Desserts,\" a feast of thirteen diﬀerent",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "used to create nativity scenes. Santon fairs, such as the one in Marseille, oﬀer a wide variety \nof these charming figures. \n \nMusic and Dance \nProvençal Folk Music \nProvençal folk music is an essential part of the region's cultural identity. Traditional \ninstruments, such as the galoubet (a type of flute) and tambourin (a drum), are often used in \nfolk music performances. The music is characterized by lively rhythms and melodies that \nreflect the region's festive spirit. Folk dances, such as the farandole, are performed at festivals \nand celebrations, with participants forming long chains and weaving through the streets. \nJazz Manouche \nThe South of France has a rich tradition of Jazz manouche. This genre was popularized by the \nlegendary guitarist Django Reinhardt, who was born in Belgium but spent much of his life in \nthe South of France. Jazz manouche is characterized by its fast tempos, virtuosic guitar \nplaying, and swing rhythms. The annual Django Reinhardt Festival in Samois-sur-Seine \ncelebrates his legacy with performances by top jazz manouche musicians. \n \n \nConclusion \nThe South of France is a region steeped in traditions and cultural heritage that reflect its \ndiverse history and influences. From the Provençal language and literature to the vibrant \nfestivals and culinary delights, the region oﬀers a rich tapestry of customs and practices that \ncontinue to thrive today. Whether you're exploring the picturesque villages, participating in \nlocal celebrations, or savoring the flavors of Provençal cuisine, you'll find that the traditions \nand culture of the South of France provide a deep and enriching experience. Use this guide to \nimmerse yourself in the unique cultural landscape of this beautiful region and create lasting \nmemories of your journey.",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "A Comprehensive Guide to Traditions and Culture in the South of France \nIntroduction \nThe South of France, with its picturesque landscapes, charming villages, and vibrant cities, is \nnot only a feast for the eyes but also a treasure trove of cultural traditions and heritage. This \nregion, known for its rich history and diverse influences, oﬀers a unique blend of customs, \nfestivals, and local practices that reflect its distinct identity. This guide will take you through \nthe various traditions and cultural aspects of the South of France, providing a deep \nunderstanding of what makes this region so special.",
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "Language and Literature Provençal Language The Provençal language, also known as Occitan, has been a significant part of the cultural identity of the South of France. Although French is the dominant language today, Provençal was widely spoken until the 19th century. It is still preserved in literature, music, and local expressions. Eﬀorts to revive and promote the language continue, with festivals and educational programs dedicated to its preservation. Literature and Poetry The South of France has inspired many writers and poets over the centuries. The troubadours of the medieval period, who composed and performed lyrical poetry, were particularly influential. Their works often celebrated chivalry, love, and nature. The region's literary heritage also includes famous authors like Marcel Pagnol, whose novels and plays vividly depict Provençal life. Festivals and Celebrations Carnival of Nice Held in Nice from mid-February to early March, the Carnival of Nice is one of the most famous and oldest carnivals in the world. The festivities include parades with elaborate floats, street performances, and fireworks. The Battle of Flowers, where participants throw flowers into the crowd, is a highlight of the event. The carnival's vibrant atmosphere and colorful displays attract visitors from all over the world. Fête de la Musique Celebrated on June 21st, the Fête de la Musique is a nationwide music festival that originated in France. In the South of France, cities and towns come alive with music, as both amateur and professional musicians perform in streets, squares, and parks. The festival promotes a diverse range of musical genres and encourages community participation. Transhumance Festivals Transhumance, the seasonal migration of livestock to higher pastures, is a tradition that dates back centuries. Although modern transportation has replaced much of the traditional practice, transhumance festivals are still celebrated in many villages, particularly in Saint- Rémy-de-Provence in May. These",
+      "page_number": 2
+    }
+  ]
+}

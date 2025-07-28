@@ -1,0 +1,2434 @@
+{
+  "metadata": {
+    "input_documents": [
+      "South of France - Restaurants and Hotels.pdf"
+    ],
+    "persona": "",
+    "job_to_be_done": "",
+    "processing_timestamp": "2025-07-28T14:33:35.275548"
+  },
+  "extracted_sections": [
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 1,
+      "section_title": "Comprehensive Guide to Restaurants and Hotels in the South of France",
+      "importance_rank": 1
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 1,
+      "section_title": "Introduction",
+      "importance_rank": 2
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 1,
+      "section_title": "The South of France, known for its stunning landscapes, rich cultural heritage, and exquisite",
+      "importance_rank": 3
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 1,
+      "section_title": "cuisine, is a dream destination for travelers. From the glamorous beaches of the French",
+      "importance_rank": 4
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 1,
+      "section_title": "Riviera to the charming villages of Provence, this region oﬀers a diverse array of experiences.",
+      "importance_rank": 5
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 1,
+      "section_title": "Whether you're looking for budget-friendly options, family-friendly spots, upscale dining, or",
+      "importance_rank": 6
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 1,
+      "section_title": "luxurious experiences, this guide will help you find the perfect restaurants and hotels for your",
+      "importance_rank": 7
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 2,
+      "section_title": "Restaurants",
+      "importance_rank": 8
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 2,
+      "section_title": "Budget-Friendly Restaurants",
+      "importance_rank": 9
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 2,
+      "section_title": "Chez Pipo (Nice): Famous for its socca, a traditional Niçoise chickpea pancake, this",
+      "importance_rank": 10
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 2,
+      "section_title": "friendly service make it a favorite among locals and tourists alike.",
+      "importance_rank": 11
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 2,
+      "section_title": "La Merenda (Nice): A small, cozy restaurant serving authentic Niçoise cuisine. The",
+      "importance_rank": 12
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 2,
+      "section_title": "menu changes with the seasons, ensuring fresh and flavorful dishes. Reservations are a",
+      "importance_rank": 13
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 2,
+      "section_title": "must due to its popularity and limited seating.",
+      "importance_rank": 14
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 2,
+      "section_title": "portions make it a great spot for a casual meal.",
+      "importance_rank": 15
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 2,
+      "section_title": "Le Bistrot du Paradou (Paradou): A charming bistro oﬀering a daily fixed menu with",
+      "importance_rank": 16
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 2,
+      "section_title": "hearty Provençal dishes at reasonable prices. The warm, welcoming environment and",
+      "importance_rank": 17
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 2,
+      "section_title": "generous servings make it a must-visit.",
+      "importance_rank": 18
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 2,
+      "section_title": "Le Comptoir du Marché (Nice): This bistro oﬀers a variety of traditional French dishes",
+      "importance_rank": 19
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 2,
+      "section_title": "at aﬀordable prices. The cozy atmosphere and friendly staﬀ make it a great spot for a",
+      "importance_rank": 20
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 2,
+      "section_title": "casual meal.",
+      "importance_rank": 21
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 2,
+      "section_title": "Le Petit Nice (Marseille): A budget-friendly option oﬀering a variety of seafood dishes.",
+      "importance_rank": 22
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 2,
+      "section_title": "The relaxed setting and fresh ingredients make it a popular choice.",
+      "importance_rank": 23
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 2,
+      "section_title": "Le Café de Turin (Nice): Known for its seafood, this café oﬀers a variety of aﬀordable",
+      "importance_rank": 24
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 2,
+      "section_title": "dishes in a lively setting. The fresh oysters are a must-try.",
+      "importance_rank": 25
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 2,
+      "section_title": "Le Panier (Marseille): A casual eatery oﬀering a variety of Mediterranean dishes at",
+      "importance_rank": 26
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 2,
+      "section_title": "reasonable prices. The outdoor seating and friendly service make it a great spot for a",
+      "importance_rank": 27
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 2,
+      "section_title": "relaxed meal.",
+      "importance_rank": 28
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 2,
+      "section_title": "Le Bistrot Gourmand (Cannes): This bistro oﬀers a variety of traditional French dishes",
+      "importance_rank": 29
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 2,
+      "section_title": "Le Petit Pontoise (Paris): A charming bistro oﬀering a variety of traditional French",
+      "importance_rank": 30
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 2,
+      "section_title": "dishes at reasonable prices. The cozy atmosphere and friendly service make it a great",
+      "importance_rank": 31
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 3,
+      "section_title": "Club 55 (Saint-Tropez): This iconic beach club oﬀers a relaxed, family-friendly",
+      "importance_rank": 32
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 3,
+      "section_title": "atmosphere with a menu featuring fresh seafood and Mediterranean dishes. The",
+      "importance_rank": 33
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 3,
+      "section_title": "beachside location and casual vibe make it perfect for families.",
+      "importance_rank": 34
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 3,
+      "section_title": "Le Safari (Nice): Located in the heart of the old town, this restaurant oﬀers a diverse",
+      "importance_rank": 35
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 3,
+      "section_title": "menu with options for both adults and children. The lively setting and outdoor seating",
+      "importance_rank": 36
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 3,
+      "section_title": "make it a great spot for a family meal.",
+      "importance_rank": 37
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 3,
+      "section_title": "La Table du Marché (Saint-Rémy-de-Provence): A welcoming restaurant with a varied",
+      "importance_rank": 38
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 3,
+      "section_title": "menu that includes kid-friendly options and fresh, local ingredients. The charming",
+      "importance_rank": 39
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 3,
+      "section_title": "setting and friendly staﬀ ensure a pleasant dining experience for families.",
+      "importance_rank": 40
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 3,
+      "section_title": "Le Grill (Decize): A family-friendly restaurant oﬀering a variety of grilled meats and",
+      "importance_rank": 41
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 3,
+      "section_title": "classic French dishes in a casual setting. The relaxed atmosphere and extensive menu",
+      "importance_rank": 42
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 3,
+      "section_title": "cater to all ages.",
+      "importance_rank": 43
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 3,
+      "section_title": "Le Jardin de Benjamin (Lorgues): This restaurant oﬀers a variety of dishes made with",
+      "importance_rank": 44
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 3,
+      "section_title": "fresh, local ingredients. The outdoor seating and kid-friendly menu make it a great",
+      "importance_rank": 45
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 3,
+      "section_title": "spot for families.",
+      "importance_rank": 46
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 3,
+      "section_title": "Le Petit Jardin (Montpellier): A family-friendly restaurant oﬀering a variety of",
+      "importance_rank": 47
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 3,
+      "section_title": "Mediterranean dishes. The outdoor seating and relaxed atmosphere make it a great",
+      "importance_rank": 48
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 3,
+      "section_title": "and kid-friendly options. The relaxed setting and beautiful views make it a great spot",
+      "importance_rank": 49
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 3,
+      "section_title": "for families.",
+      "importance_rank": 50
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 3,
+      "section_title": "Le Petit Nice (Marseille): A family-friendly restaurant oﬀering a variety of seafood",
+      "importance_rank": 51
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 3,
+      "section_title": "dishes. The relaxed setting and fresh ingredients make it a popular choice.",
+      "importance_rank": 52
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 3,
+      "section_title": "Le Jardin des Sens (Montpellier): This restaurant oﬀers a variety of dishes made with",
+      "importance_rank": 53
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 3,
+      "section_title": "Le Café des Arts (Nice): A family-friendly café oﬀering a variety of dishes and kid-",
+      "importance_rank": 54
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 3,
+      "section_title": "friendly options. The relaxed setting and friendly service make it a great spot for a",
+      "importance_rank": 55
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 4,
+      "section_title": "Upscale Restaurants",
+      "importance_rank": 56
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 4,
+      "section_title": "AM by Alexandre Mazzia (Marseille): A two-Michelin-starred restaurant oﬀering a",
+      "importance_rank": 57
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 4,
+      "section_title": "fine-dining experience with innovative dishes inspired by Mediterranean flavors. The",
+      "importance_rank": 58
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 4,
+      "section_title": "artistic presentation and unique flavor combinations make it a culinary adventure.",
+      "importance_rank": 59
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 4,
+      "section_title": "Le Mirazur (Menton): Ranked among the world's best restaurants, Le Mirazur oﬀers a",
+      "importance_rank": 60
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 4,
+      "section_title": "unique dining experience with a focus on fresh, local ingredients and innovative",
+      "importance_rank": 61
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 4,
+      "section_title": "dishes. The stunning views of the Mediterranean add to the allure.",
+      "importance_rank": 62
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 4,
+      "section_title": "La Chèvre d'Or (Èze): Located in a medieval village, this two-Michelin-starred",
+      "importance_rank": 63
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 4,
+      "section_title": "restaurant serves refined Provençal cuisine with breathtaking views of the French",
+      "importance_rank": 64
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 4,
+      "section_title": "Hostellerie de Jérôme (La Turbie): A two-Michelin-starred restaurant oﬀering",
+      "importance_rank": 65
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 4,
+      "section_title": "traditional French fare created from the very best local ingredients. The historic setting",
+      "importance_rank": 66
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 4,
+      "section_title": "and exquisite dishes make it a must-visit for food enthusiasts.",
+      "importance_rank": 67
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 4,
+      "section_title": "Le Louis XV - Alain Ducasse (Monaco): A three-Michelin-starred restaurant oﬀering an",
+      "importance_rank": 68
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 4,
+      "section_title": "opulent dining experience with a menu that celebrates the flavors of the",
+      "importance_rank": 69
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 4,
+      "section_title": "Mediterranean. The lavish decor and exceptional service make it a dining experience",
+      "importance_rank": 70
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 4,
+      "section_title": "to remember.",
+      "importance_rank": 71
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 4,
+      "section_title": "La Vague d'Or (Saint-Tropez): A three-Michelin-starred restaurant located in the",
+      "importance_rank": 72
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 4,
+      "section_title": "luxurious Résidence de la Pinède, oﬀering exquisite dishes inspired by the sea and the",
+      "importance_rank": 73
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 4,
+      "section_title": "land. The serene setting and culinary excellence make it a top choice for fine dining.",
+      "importance_rank": 74
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 4,
+      "section_title": "Le Petit Nice Passedat (Marseille): A three-Michelin-starred restaurant oﬀering",
+      "importance_rank": 75
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 4,
+      "section_title": "exquisite seafood dishes and stunning views of the Mediterranean. The creative menu",
+      "importance_rank": 76
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 4,
+      "section_title": "and elegant ambiance make it a standout dining destination.",
+      "importance_rank": 77
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 4,
+      "section_title": "La Colombe d'Or (Saint-Paul-de-Vence): A historic restaurant and hotel that has",
+      "importance_rank": 78
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 4,
+      "section_title": "hosted famous artists and celebrities, oﬀering a luxurious dining experience with a",
+      "importance_rank": 79
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 4,
+      "section_title": "focus on Provençal cuisine. The art-filled setting and gourmet dishes make it a unique",
+      "importance_rank": 80
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 4,
+      "section_title": "Le Figuier de Saint-Esprit (Antibes): A Michelin-starred restaurant oﬀering a variety of",
+      "importance_rank": 81
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 5,
+      "section_title": "Le Park 45 (Cannes): A Michelin-starred restaurant oﬀering a variety of dishes made",
+      "importance_rank": 82
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 5,
+      "section_title": "with fresh, local ingredients. The elegant setting and exceptional service make it a top",
+      "importance_rank": 83
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 6,
+      "section_title": "Luxurious Restaurants",
+      "importance_rank": 84
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 6,
+      "section_title": "Le Cap (Saint-Jean-Cap-Ferrat): A Michelin-starred restaurant oﬀering a variety of",
+      "importance_rank": 85
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 6,
+      "section_title": "Le Chantecler (Nice): A Michelin-starred restaurant oﬀering a variety of dishes made",
+      "importance_rank": 86
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 6,
+      "section_title": "Le Jardin des Sens (Montpellier): A Michelin-starred restaurant oﬀering a variety of",
+      "importance_rank": 87
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 6,
+      "section_title": "Le Petit Nice (Marseille): A Michelin-starred restaurant oﬀering a variety of dishes",
+      "importance_rank": 88
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 6,
+      "section_title": "made with fresh, local ingredients. The elegant setting and exceptional service make it",
+      "importance_rank": 89
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 7,
+      "section_title": "La Villa Madie (Cassis): A two-Michelin-starred restaurant oﬀering a variety of dishes",
+      "importance_rank": 90
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 7,
+      "section_title": "inspired by the Mediterranean. The stunning views and exceptional service make it a",
+      "importance_rank": 91
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 7,
+      "section_title": "top choice for luxurious dining.",
+      "importance_rank": 92
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 7,
+      "section_title": "Le Clos des Sens (Annecy): A three-Michelin-starred restaurant oﬀering a variety of",
+      "importance_rank": 93
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 7,
+      "section_title": "Le Pavillon Ledoyen (Paris): A three-Michelin-starred restaurant oﬀering a variety of",
+      "importance_rank": 94
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 8,
+      "section_title": "Ibis Budget Nice Californie Lenval (Nice): A budget-friendly hotel oﬀering comfortable",
+      "importance_rank": 95
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 8,
+      "section_title": "rooms and easy access to the beach and city center. The modern amenities and",
+      "importance_rank": 96
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 8,
+      "section_title": "convenient location make it a great choice for budget-conscious travelers.",
+      "importance_rank": 97
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 8,
+      "section_title": "Hotel Le Saint Paul (Nice): A charming hotel located in a historic building, oﬀering",
+      "importance_rank": 98
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 8,
+      "section_title": "aﬀordable rates and beautiful views of the Mediterranean. The cozy rooms and",
+      "importance_rank": 99
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 8,
+      "section_title": "friendly service make it a pleasant stay.",
+      "importance_rank": 100
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 8,
+      "section_title": "Hotel des Arts (Montpellier): A budget-friendly hotel located in the heart of",
+      "importance_rank": 101
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 8,
+      "section_title": "Montpellier, oﬀering comfortable rooms and easy access to the city's attractions. The",
+      "importance_rank": 102
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 8,
+      "section_title": "artistic decor and central location make it a popular choice.",
+      "importance_rank": 103
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 8,
+      "section_title": "Hotel Le Mistral (Marseille): A budget-friendly hotel oﬀering simple, clean rooms and",
+      "importance_rank": 104
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 8,
+      "section_title": "a convenient location near the Old Port. The friendly staﬀ and aﬀordable rates make it",
+      "importance_rank": 105
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 8,
+      "section_title": "a good option for travelers on a budget.",
+      "importance_rank": 106
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 8,
+      "section_title": "Hotel Azur (Nice): A budget-friendly hotel oﬀering comfortable rooms and easy",
+      "importance_rank": 107
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 8,
+      "section_title": "access to the beach and city center. The modern amenities and convenient location",
+      "importance_rank": 108
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 8,
+      "section_title": "make it a great choice for budget-conscious travelers.",
+      "importance_rank": 109
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 8,
+      "section_title": "Hotel de la Paix (Marseille): A budget-friendly hotel oﬀering simple, clean rooms and",
+      "importance_rank": 110
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 8,
+      "section_title": "Hotel de la Plage (Marseille): A budget-friendly hotel oﬀering simple, clean rooms and",
+      "importance_rank": 111
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 9,
+      "section_title": "Family-Friendly Hotels",
+      "importance_rank": 112
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 9,
+      "section_title": "Club Med Opio en Provence (Opio): A family-friendly resort oﬀering a wide range of",
+      "importance_rank": 113
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 9,
+      "section_title": "activities for children and adults, including sports, entertainment, and kids' clubs. The",
+      "importance_rank": 114
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 9,
+      "section_title": "beautiful setting and all-inclusive amenities make it a hassle-free vacation spot.",
+      "importance_rank": 115
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 9,
+      "section_title": "Le Mas de Pierre (Saint-Paul-de-Vence): A luxurious family-friendly hotel oﬀering",
+      "importance_rank": 116
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 9,
+      "section_title": "spacious rooms, beautiful gardens, and a variety of activities for children. The elegant",
+      "importance_rank": 117
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 9,
+      "section_title": "decor and attentive service ensure a comfortable stay for families.",
+      "importance_rank": 118
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 9,
+      "section_title": "Hôtel Les Roches Rouges (Saint-Raphaël): A family-friendly hotel located on the",
+      "importance_rank": 119
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 9,
+      "section_title": "beach, oﬀering comfortable rooms, a kids' club, and a variety of water sports. The",
+      "importance_rank": 120
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 9,
+      "section_title": "beachfront location and family-oriented amenities make it a great choice for a seaside",
+      "importance_rank": 121
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 9,
+      "section_title": "vacation.",
+      "importance_rank": 122
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 9,
+      "section_title": "Château de Berne (Lorgues): A family-friendly hotel located on a vineyard, oﬀering",
+      "importance_rank": 123
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 9,
+      "section_title": "attentive service ensure a comfortable stay for families.",
+      "importance_rank": 124
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 9,
+      "section_title": "Hôtel du Cap-Eden-Roc (Antibes): A luxurious family-friendly hotel oﬀering spacious",
+      "importance_rank": 125
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 9,
+      "section_title": "Hôtel Royal Riviera (Saint-Jean-Cap-Ferrat): A luxurious family-friendly hotel oﬀering",
+      "importance_rank": 126
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 9,
+      "section_title": "Hôtel Le Negresco (Nice): A luxurious family-friendly hotel oﬀering spacious rooms,",
+      "importance_rank": 127
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 9,
+      "section_title": "beautiful gardens, and a variety of activities for children. The elegant decor and",
+      "importance_rank": 128
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 9,
+      "section_title": "Hôtel Martinez (Cannes): A luxurious family-friendly hotel oﬀering spacious rooms,",
+      "importance_rank": 129
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 11,
+      "section_title": "Upscale Hotels",
+      "importance_rank": 130
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 11,
+      "section_title": "Hotel Negresco (Nice): A historic five-star hotel located on the Promenade des",
+      "importance_rank": 131
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 11,
+      "section_title": "Anglais, oﬀering luxurious rooms and exceptional service. The opulent decor and",
+      "importance_rank": 132
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 11,
+      "section_title": "prime location make it a landmark in Nice.",
+      "importance_rank": 133
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 11,
+      "section_title": "InterContinental Marseille - Hotel Dieu (Marseille): A luxurious hotel located in a",
+      "importance_rank": 134
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 11,
+      "section_title": "beautifully restored 18th-century building, oﬀering stunning views of the Old Port and",
+      "importance_rank": 135
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 11,
+      "section_title": "the city. The elegant rooms and top-notch amenities make it a standout choice.",
+      "importance_rank": 136
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 11,
+      "section_title": "Hotel Martinez (Cannes): A luxurious hotel located on the Boulevard de la Croisette,",
+      "importance_rank": 137
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 11,
+      "section_title": "oﬀering elegant rooms, a private beach, and a Michelin-starred restaurant. The",
+      "importance_rank": 138
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 11,
+      "section_title": "oﬀering elegant rooms, beautiful gardens, and stunning views of the Luberon Valley.",
+      "importance_rank": 139
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 11,
+      "section_title": "The refined decor and serene atmosphere make it a perfect retreat.",
+      "importance_rank": 140
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 11,
+      "section_title": "Hôtel Barrière Le Majestic (Cannes): A luxurious hotel located on the Boulevard de la",
+      "importance_rank": 141
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 11,
+      "section_title": "Croisette, oﬀering elegant rooms, a private beach, and a Michelin-starred restaurant.",
+      "importance_rank": 142
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 11,
+      "section_title": "The glamorous setting and high-end services make it a favorite among celebrities.",
+      "importance_rank": 143
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 11,
+      "section_title": "Hôtel du Cap-Eden-Roc (Antibes): A luxurious hotel located on the Boulevard de la",
+      "importance_rank": 144
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 11,
+      "section_title": "Hôtel Royal Riviera (Saint-Jean-Cap-Ferrat): A luxurious hotel located on the",
+      "importance_rank": 145
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 11,
+      "section_title": "Boulevard de la Croisette, oﬀering elegant rooms, a private beach, and a Michelin-",
+      "importance_rank": 146
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 11,
+      "section_title": "starred restaurant. The glamorous setting and high-end services make it a favorite",
+      "importance_rank": 147
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 11,
+      "section_title": "among celebrities.",
+      "importance_rank": 148
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 11,
+      "section_title": "Hôtel Le Negresco (Nice): A luxurious hotel located on the Boulevard de la Croisette,",
+      "importance_rank": 149
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 11,
+      "section_title": "Hôtel Martinez (Cannes): A luxurious hotel located on the Boulevard de la Croisette,",
+      "importance_rank": 150
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 12,
+      "section_title": "Luxurious Hotels",
+      "importance_rank": 151
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 12,
+      "section_title": "Grand-Hôtel du Cap-Ferrat, A Four Seasons Hotel (Saint-Jean-Cap-Ferrat): A luxurious",
+      "importance_rank": 152
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 12,
+      "section_title": "hotel set on 7 hectares of Mediterranean gardens, oﬀering elegant rooms, a spa, and a",
+      "importance_rank": 153
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 12,
+      "section_title": "Hôtel de Paris Monte-Carlo (Monaco): A luxurious hotel located in the heart of",
+      "importance_rank": 154
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 12,
+      "section_title": "Monaco, oﬀering opulent rooms, a world-class spa, and several Michelin-starred",
+      "importance_rank": 155
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 12,
+      "section_title": "restaurants. The historic grandeur and exceptional service make it a premier",
+      "importance_rank": 156
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 12,
+      "section_title": "destination.",
+      "importance_rank": 157
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 12,
+      "section_title": "Château Saint-Martin & Spa (Vence): A luxurious hotel set in a historic château,",
+      "importance_rank": 158
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 12,
+      "section_title": "oﬀering elegant rooms, a Michelin-starred restaurant, and a world-class spa. The",
+      "importance_rank": 159
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 12,
+      "section_title": "tranquil setting and luxurious amenities make it a perfect getaway.",
+      "importance_rank": 160
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 12,
+      "section_title": "Airelles Château de la Messardière (Saint-Tropez): A luxurious hotel set in a historic",
+      "importance_rank": 161
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 12,
+      "section_title": "château, oﬀering elegant rooms, beautiful gardens, and stunning views of the",
+      "importance_rank": 162
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 12,
+      "section_title": "Mediterranean. The refined ambiance and top-tier services make it a standout choice",
+      "importance_rank": 163
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 12,
+      "section_title": "for luxury accommodations.",
+      "importance_rank": 164
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 12,
+      "section_title": "Hôtel du Cap-Eden-Roc (Antibes): A legendary hotel oﬀering luxurious rooms, a",
+      "importance_rank": 165
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 12,
+      "section_title": "private beach, and a world-class spa. The stunning location and impeccable service",
+      "importance_rank": 166
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 12,
+      "section_title": "make it a favorite among celebrities and discerning travelers.",
+      "importance_rank": 167
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 12,
+      "section_title": "La Réserve Ramatuelle (Ramatuelle): A luxurious hotel oﬀering elegant rooms, a spa,",
+      "importance_rank": 168
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 12,
+      "section_title": "and breathtaking views of the Mediterranean. The serene setting and exceptional",
+      "importance_rank": 169
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 12,
+      "section_title": "elegant rooms, a spa, and a Michelin-starred restaurant. The artistic ambiance and",
+      "importance_rank": 170
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 12,
+      "section_title": "world-class amenities make it a unique and memorable stay.",
+      "importance_rank": 171
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 12,
+      "section_title": "Hôtel Hermitage Monte-Carlo (Monaco): A luxurious hotel oﬀering opulent rooms, a",
+      "importance_rank": 172
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 12,
+      "section_title": "world-class spa, and several fine dining options. The historic charm and exceptional",
+      "importance_rank": 173
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 12,
+      "section_title": "service make it a premier destination in Monaco.",
+      "importance_rank": 174
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 12,
+      "section_title": "Le Byblos (Saint-Tropez): A luxurious hotel oﬀering elegant rooms, a spa, and a vibrant",
+      "importance_rank": 175
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 12,
+      "section_title": "nightlife scene. The glamorous setting and top-notch amenities make it a favorite",
+      "importance_rank": 176
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 13,
+      "section_title": "Hôtel Métropole Monte-Carlo (Monaco): A luxurious hotel oﬀering opulent rooms, a",
+      "importance_rank": 177
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 13,
+      "section_title": "world-class spa, and several Michelin-starred restaurants. The refined elegance and",
+      "importance_rank": 178
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 14,
+      "section_title": "Conclusion",
+      "importance_rank": 179
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 14,
+      "section_title": "The South of France oﬀers a wide range of dining and accommodation options to suit every",
+      "importance_rank": 180
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 14,
+      "section_title": "budget and preference. Whether you're looking for budget-friendly eateries, family-friendly",
+      "importance_rank": 181
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 14,
+      "section_title": "spots, upscale dining, or luxurious experiences, this guide will help you find the perfect places",
+      "importance_rank": 182
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 14,
+      "section_title": "to eat and stay during your trip. From the vibrant cities of Nice and Marseille to the charming",
+      "importance_rank": 183
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 2,
+      "section_title": "casual eatery oﬀers delicious and aﬀordable local dishes. The rustic ambiance and",
+      "importance_rank": 184
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 2,
+      "section_title": "Chez Etienne (Marseille): Known for its simple yet delicious pizzas and grilled meats,",
+      "importance_rank": 185
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 2,
+      "section_title": "this family-owned restaurant is a local favorite. The lively atmosphere and hearty",
+      "importance_rank": 186
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 3,
+      "section_title": "Family-Friendly Restaurants",
+      "importance_rank": 187
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 3,
+      "section_title": "spot for a family meal.",
+      "importance_rank": 188
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 3,
+      "section_title": "Le Café de la Plage (Arcachon): This beachfront café oﬀers a variety of seafood dishes",
+      "importance_rank": 189
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 4,
+      "section_title": "Riviera. The elegant setting and impeccable service make it a memorable dining",
+      "importance_rank": 190
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 4,
+      "section_title": "experience.",
+      "importance_rank": 191
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 4,
+      "section_title": "dishes made with fresh, local ingredients. The elegant setting and exceptional service",
+      "importance_rank": 192
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 8,
+      "section_title": "Hotels",
+      "importance_rank": 193
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 8,
+      "section_title": "Budget-Friendly Hotels",
+      "importance_rank": 194
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 8,
+      "section_title": "Hotel du Palais (Montpellier): A budget-friendly hotel located in the heart of",
+      "importance_rank": 195
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 8,
+      "section_title": "Hotel de la Mer (Nice): A budget-friendly hotel oﬀering comfortable rooms and easy",
+      "importance_rank": 196
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 9,
+      "section_title": "spacious rooms, a kids' club, and a variety of outdoor activities. The picturesque",
+      "importance_rank": 197
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 9,
+      "section_title": "setting and family-friendly facilities make it a unique and enjoyable stay.",
+      "importance_rank": 198
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 9,
+      "section_title": "Hôtel Barrière Le Majestic (Cannes): A luxurious family-friendly hotel oﬀering spacious",
+      "importance_rank": 199
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 9,
+      "section_title": "rooms, beautiful gardens, and a variety of activities for children. The elegant decor and",
+      "importance_rank": 200
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 11,
+      "section_title": "glamorous setting and high-end services make it a favorite among celebrities.",
+      "importance_rank": 201
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 11,
+      "section_title": "La Bastide de Gordes (Gordes): A luxurious hotel located in a historic building,",
+      "importance_rank": 202
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 12,
+      "section_title": "private beach. The exclusive setting and world-class amenities make it a top choice for",
+      "importance_rank": 203
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 12,
+      "section_title": "luxury travelers.",
+      "importance_rank": 204
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 12,
+      "section_title": "service make it a top choice for a relaxing retreat.",
+      "importance_rank": 205
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 12,
+      "section_title": "Villa La Coste (Le Puy-Sainte-Réparade): A luxurious hotel set in a vineyard, oﬀering",
+      "importance_rank": 206
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 14,
+      "section_title": "villages of Provence, the South of France promises an unforgettable travel experience. Bon",
+      "importance_rank": 207
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 7,
+      "section_title": "Le Pré Catelan (Paris): A three-Michelin-starred restaurant oﬀering a variety of dishes",
+      "importance_rank": 208
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 2,
+      "section_title": "spot for a casual meal.",
+      "importance_rank": 209
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 5,
+      "section_title": "choice for fine dining.",
+      "importance_rank": 210
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 13,
+      "section_title": "exceptional service make it a top choice for luxury travelers.",
+      "importance_rank": 211
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 6,
+      "section_title": "a top choice for fine dining.",
+      "importance_rank": 212
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 9,
+      "section_title": "Hôtel de Paris (Monaco): A luxurious family-friendly hotel oﬀering spacious rooms,",
+      "importance_rank": 213
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 4,
+      "section_title": "make it a top choice for fine dining.",
+      "importance_rank": 214
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 3,
+      "section_title": "family meal.",
+      "importance_rank": 215
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 12,
+      "section_title": "among the jet set.",
+      "importance_rank": 216
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 11,
+      "section_title": "Hôtel de Paris (Monaco): A luxurious hotel located on the Boulevard de la Croisette,",
+      "importance_rank": 217
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 8,
+      "section_title": "Hotel de la Gare (Montpellier): A budget-friendly hotel located in the heart of",
+      "importance_rank": 218
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 1,
+      "section_title": "trip.",
+      "importance_rank": 219
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 14,
+      "section_title": "voyage!",
+      "importance_rank": 220
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 12
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 12
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 12
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 12
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 12
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 12
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 12
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 12
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 12
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 12
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 12
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 12
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 12
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 12
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 12
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 12
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 12
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 12
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 12
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 12
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 12
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 12
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 12
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 12
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 12
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 12
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 13
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 13
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 14
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 14
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 14
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 14
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 14
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 12
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 12
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 12
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 12
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "",
+      "page_number": 14
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "• \nLa Villa Madie (Cassis): A two-Michelin-starred restaurant oﬀering a variety of dishes \ninspired by the Mediterranean. The stunning views and exceptional service make it a \ntop choice for luxurious dining. \n• \nLe Clos des Sens (Annecy): A three-Michelin-starred restaurant oﬀering a variety of \ndishes made with fresh, local ingredients. The elegant setting and exceptional service \nmake it a top choice for fine dining. \n• \nLe Pavillon Ledoyen (Paris): A three-Michelin-starred restaurant oﬀering a variety of \ndishes made with fresh, local ingredients. The elegant setting and exceptional service \nmake it a top choice for fine dining. \n• \nLe Pré Catelan (Paris): A three-Michelin-starred restaurant oﬀering a variety of dishes \nmade with fresh, local ingredients. The elegant setting and exceptional service make it \na top choice for fine dining.",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "Restaurants Budget-Friendly Restaurants • Chez Pipo (Nice): Famous for its socca, a traditional Niçoise chickpea pancake, this casual eatery oﬀers delicious and aﬀordable local dishes. The rustic ambiance and friendly service make it a favorite among locals and tourists alike. • La Merenda (Nice): A small, cozy restaurant serving authentic Niçoise cuisine. The menu changes with the seasons, ensuring fresh and flavorful dishes. Reservations are a must due to its popularity and limited seating. • Chez Etienne (Marseille): Known for its simple yet delicious pizzas and grilled meats, this family-owned restaurant is a local favorite. The lively atmosphere and hearty portions make it a great spot for a casual meal. • Le Bistrot du Paradou (Paradou): A charming bistro oﬀering a daily fixed menu with hearty Provençal dishes at reasonable prices. The warm, welcoming environment and generous servings make it a must-visit. • Le Comptoir du Marché (Nice): This bistro oﬀers a variety of traditional French dishes at aﬀordable prices. The cozy atmosphere and friendly staﬀ make it a great spot for a casual meal. • Le Petit Nice (Marseille): A budget-friendly option oﬀering a variety of seafood dishes. The relaxed setting and fresh ingredients make it a popular choice. • Le Café de Turin (Nice): Known for its seafood, this café oﬀers a variety of aﬀordable dishes in a lively setting. The fresh oysters are a must-try. • Le Panier (Marseille): A casual eatery oﬀering a variety of Mediterranean dishes at reasonable prices. The outdoor seating and friendly service make it a great spot for a relaxed meal. • Le Bistrot Gourmand (Cannes): This bistro oﬀers a variety of traditional French dishes at aﬀordable prices. The cozy atmosphere and friendly staﬀ make it a great spot for a casual meal. • Le Petit Pontoise (Paris): A charming bistro oﬀering",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "• \nLe Park 45 (Cannes): A Michelin-starred restaurant oﬀering a variety of dishes made \nwith fresh, local ingredients. The elegant setting and exceptional service make it a top \nchoice for fine dining.",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "• \nHôtel Métropole Monte-Carlo (Monaco): A luxurious hotel oﬀering opulent rooms, a \nworld-class spa, and several Michelin-starred restaurants. The refined elegance and \nexceptional service make it a top choice for luxury travelers.",
+      "page_number": 13
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "Luxurious Restaurants • Le Louis XV - Alain Ducasse (Monaco): A three-Michelin-starred restaurant oﬀering an opulent dining experience with a menu that celebrates the flavors of the Mediterranean. The lavish decor and exceptional service make it a dining experience to remember. • La Vague d'Or (Saint-Tropez): A three-Michelin-starred restaurant located in the luxurious Résidence de la Pinède, oﬀering exquisite dishes inspired by the sea and the land. The serene setting and culinary excellence make it a top choice for fine dining. • Le Petit Nice Passedat (Marseille): A three-Michelin-starred restaurant oﬀering exquisite seafood dishes and stunning views of the Mediterranean. The creative menu and elegant ambiance make it a standout dining destination. • La Colombe d'Or (Saint-Paul-de-Vence): A historic restaurant and hotel that has hosted famous artists and celebrities, oﬀering a luxurious dining experience with a focus on Provençal cuisine. The art-filled setting and gourmet dishes make it a unique experience. • Le Cap (Saint-Jean-Cap-Ferrat): A Michelin-starred restaurant oﬀering a variety of dishes made with fresh, local ingredients. The elegant setting and exceptional service make it a top choice for fine dining. • Le Chantecler (Nice): A Michelin-starred restaurant oﬀering a variety of dishes made with fresh, local ingredients. The elegant setting and exceptional service make it a top choice for fine dining. • Le Figuier de Saint-Esprit (Antibes): A Michelin-starred restaurant oﬀering a variety of dishes made with fresh, local ingredients. The elegant setting and exceptional service make it a top choice for fine dining. • Le Park 45 (Cannes): A Michelin-starred restaurant oﬀering a variety of dishes made with fresh, local ingredients. The elegant setting and exceptional service make it a top choice for fine dining. • Le Jardin des Sens (Montpellier): A Michelin-starred restaurant oﬀering a variety of dishes made with fresh, local ingredients. The elegant setting",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "Family-Friendly Hotels • Club Med Opio en Provence (Opio): A family-friendly resort oﬀering a wide range of activities for children and adults, including sports, entertainment, and kids' clubs. The beautiful setting and all-inclusive amenities make it a hassle-free vacation spot. • Le Mas de Pierre (Saint-Paul-de-Vence): A luxurious family-friendly hotel oﬀering spacious rooms, beautiful gardens, and a variety of activities for children. The elegant decor and attentive service ensure a comfortable stay for families. • Hôtel Les Roches Rouges (Saint-Raphaël): A family-friendly hotel located on the beach, oﬀering comfortable rooms, a kids' club, and a variety of water sports. The beachfront location and family-oriented amenities make it a great choice for a seaside vacation. • Château de Berne (Lorgues): A family-friendly hotel located on a vineyard, oﬀering spacious rooms, a kids' club, and a variety of outdoor activities. The picturesque setting and family-friendly facilities make it a unique and enjoyable stay. • Hôtel Barrière Le Majestic (Cannes): A luxurious family-friendly hotel oﬀering spacious rooms, beautiful gardens, and a variety of activities for children. The elegant decor and attentive service ensure a comfortable stay for families. • Hôtel du Cap-Eden-Roc (Antibes): A luxurious family-friendly hotel oﬀering spacious rooms, beautiful gardens, and a variety of activities for children. The elegant decor and attentive service ensure a comfortable stay for families. • Hôtel Royal Riviera (Saint-Jean-Cap-Ferrat): A luxurious family-friendly hotel oﬀering spacious rooms, beautiful gardens, and a variety of activities for children. The elegant decor and attentive service ensure a comfortable stay for families. • Hôtel Le Negresco (Nice): A luxurious family-friendly hotel oﬀering spacious rooms, beautiful gardens, and a variety of activities for children. The elegant decor and attentive service ensure a comfortable stay for families. • Hôtel Martinez (Cannes): A luxurious family-friendly hotel oﬀering spacious rooms, beautiful gardens, and a variety",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "Upscale Restaurants • AM by Alexandre Mazzia (Marseille): A two-Michelin-starred restaurant oﬀering a fine-dining experience with innovative dishes inspired by Mediterranean flavors. The artistic presentation and unique flavor combinations make it a culinary adventure. • Le Mirazur (Menton): Ranked among the world's best restaurants, Le Mirazur oﬀers a unique dining experience with a focus on fresh, local ingredients and innovative dishes. The stunning views of the Mediterranean add to the allure. • La Chèvre d'Or (Èze): Located in a medieval village, this two-Michelin-starred restaurant serves refined Provençal cuisine with breathtaking views of the French Riviera. The elegant setting and impeccable service make it a memorable dining experience. • Hostellerie de Jérôme (La Turbie): A two-Michelin-starred restaurant oﬀering traditional French fare created from the very best local ingredients. The historic setting and exquisite dishes make it a must-visit for food enthusiasts. • Le Louis XV - Alain Ducasse (Monaco): A three-Michelin-starred restaurant oﬀering an opulent dining experience with a menu that celebrates the flavors of the Mediterranean. The lavish decor and exceptional service make it a dining experience to remember. • La Vague d'Or (Saint-Tropez): A three-Michelin-starred restaurant located in the luxurious Résidence de la Pinède, oﬀering exquisite dishes inspired by the sea and the land. The serene setting and culinary excellence make it a top choice for fine dining. • Le Petit Nice Passedat (Marseille): A three-Michelin-starred restaurant oﬀering exquisite seafood dishes and stunning views of the Mediterranean. The creative menu and elegant ambiance make it a standout dining destination. • La Colombe d'Or (Saint-Paul-de-Vence): A historic restaurant and hotel that has hosted famous artists and celebrities, oﬀering a luxurious dining experience with a focus on Provençal cuisine. The art-filled setting and gourmet dishes make it a unique experience. • Le Figuier de Saint-Esprit (Antibes): A Michelin-starred restaurant oﬀering a",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "Family-Friendly Restaurants • Club 55 (Saint-Tropez): This iconic beach club oﬀers a relaxed, family-friendly atmosphere with a menu featuring fresh seafood and Mediterranean dishes. The beachside location and casual vibe make it perfect for families. • Le Safari (Nice): Located in the heart of the old town, this restaurant oﬀers a diverse menu with options for both adults and children. The lively setting and outdoor seating make it a great spot for a family meal. • La Table du Marché (Saint-Rémy-de-Provence): A welcoming restaurant with a varied menu that includes kid-friendly options and fresh, local ingredients. The charming setting and friendly staﬀ ensure a pleasant dining experience for families. • Le Grill (Decize): A family-friendly restaurant oﬀering a variety of grilled meats and classic French dishes in a casual setting. The relaxed atmosphere and extensive menu cater to all ages. • Le Jardin de Benjamin (Lorgues): This restaurant oﬀers a variety of dishes made with fresh, local ingredients. The outdoor seating and kid-friendly menu make it a great spot for families. • Le Petit Jardin (Montpellier): A family-friendly restaurant oﬀering a variety of Mediterranean dishes. The outdoor seating and relaxed atmosphere make it a great spot for a family meal. • Le Café de la Plage (Arcachon): This beachfront café oﬀers a variety of seafood dishes and kid-friendly options. The relaxed setting and beautiful views make it a great spot for families. • Le Petit Nice (Marseille): A family-friendly restaurant oﬀering a variety of seafood dishes. The relaxed setting and fresh ingredients make it a popular choice. • Le Jardin des Sens (Montpellier): This restaurant oﬀers a variety of dishes made with fresh, local ingredients. The outdoor seating and kid-friendly menu make it a great spot for families. • Le Café des Arts (Nice): A family-friendly café oﬀering a variety",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "Luxurious Hotels • Grand-Hôtel du Cap-Ferrat, A Four Seasons Hotel (Saint-Jean-Cap-Ferrat): A luxurious hotel set on 7 hectares of Mediterranean gardens, oﬀering elegant rooms, a spa, and a private beach. The exclusive setting and world-class amenities make it a top choice for luxury travelers. • Hôtel de Paris Monte-Carlo (Monaco): A luxurious hotel located in the heart of Monaco, oﬀering opulent rooms, a world-class spa, and several Michelin-starred restaurants. The historic grandeur and exceptional service make it a premier destination. • Château Saint-Martin & Spa (Vence): A luxurious hotel set in a historic château, oﬀering elegant rooms, a Michelin-starred restaurant, and a world-class spa. The tranquil setting and luxurious amenities make it a perfect getaway. • Airelles Château de la Messardière (Saint-Tropez): A luxurious hotel set in a historic château, oﬀering elegant rooms, beautiful gardens, and stunning views of the Mediterranean. The refined ambiance and top-tier services make it a standout choice for luxury accommodations. • Hôtel du Cap-Eden-Roc (Antibes): A legendary hotel oﬀering luxurious rooms, a private beach, and a world-class spa. The stunning location and impeccable service make it a favorite among celebrities and discerning travelers. • La Réserve Ramatuelle (Ramatuelle): A luxurious hotel oﬀering elegant rooms, a spa, and breathtaking views of the Mediterranean. The serene setting and exceptional service make it a top choice for a relaxing retreat. • Villa La Coste (Le Puy-Sainte-Réparade): A luxurious hotel set in a vineyard, oﬀering elegant rooms, a spa, and a Michelin-starred restaurant. The artistic ambiance and world-class amenities make it a unique and memorable stay. • Hôtel Hermitage Monte-Carlo (Monaco): A luxurious hotel oﬀering opulent rooms, a world-class spa, and several fine dining options. The historic charm and exceptional service make it a premier destination in Monaco. • Le Byblos (Saint-Tropez): A luxurious hotel oﬀering elegant rooms, a",
+      "page_number": 12
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "Upscale Hotels • Hotel Negresco (Nice): A historic five-star hotel located on the Promenade des Anglais, oﬀering luxurious rooms and exceptional service. The opulent decor and prime location make it a landmark in Nice. • InterContinental Marseille - Hotel Dieu (Marseille): A luxurious hotel located in a beautifully restored 18th-century building, oﬀering stunning views of the Old Port and the city. The elegant rooms and top-notch amenities make it a standout choice. • Hotel Martinez (Cannes): A luxurious hotel located on the Boulevard de la Croisette, oﬀering elegant rooms, a private beach, and a Michelin-starred restaurant. The glamorous setting and high-end services make it a favorite among celebrities. • La Bastide de Gordes (Gordes): A luxurious hotel located in a historic building, oﬀering elegant rooms, beautiful gardens, and stunning views of the Luberon Valley. The refined decor and serene atmosphere make it a perfect retreat. • Hôtel Barrière Le Majestic (Cannes): A luxurious hotel located on the Boulevard de la Croisette, oﬀering elegant rooms, a private beach, and a Michelin-starred restaurant. The glamorous setting and high-end services make it a favorite among celebrities. • Hôtel du Cap-Eden-Roc (Antibes): A luxurious hotel located on the Boulevard de la Croisette, oﬀering elegant rooms, a private beach, and a Michelin-starred restaurant. The glamorous setting and high-end services make it a favorite among celebrities. • Hôtel Royal Riviera (Saint-Jean-Cap-Ferrat): A luxurious hotel located on the Boulevard de la Croisette, oﬀering elegant rooms, a private beach, and a Michelin- starred restaurant. The glamorous setting and high-end services make it a favorite among celebrities. • Hôtel Le Negresco (Nice): A luxurious hotel located on the Boulevard de la Croisette, oﬀering elegant rooms, a private beach, and a Michelin-starred restaurant. The glamorous setting and high-end services make it a favorite among celebrities. • Hôtel Martinez (Cannes): A",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "Hotels Budget-Friendly Hotels • Ibis Budget Nice Californie Lenval (Nice): A budget-friendly hotel oﬀering comfortable rooms and easy access to the beach and city center. The modern amenities and convenient location make it a great choice for budget-conscious travelers. • Hotel Le Saint Paul (Nice): A charming hotel located in a historic building, oﬀering aﬀordable rates and beautiful views of the Mediterranean. The cozy rooms and friendly service make it a pleasant stay. • Hotel des Arts (Montpellier): A budget-friendly hotel located in the heart of Montpellier, oﬀering comfortable rooms and easy access to the city's attractions. The artistic decor and central location make it a popular choice. • Hotel Le Mistral (Marseille): A budget-friendly hotel oﬀering simple, clean rooms and a convenient location near the Old Port. The friendly staﬀ and aﬀordable rates make it a good option for travelers on a budget. • Hotel Azur (Nice): A budget-friendly hotel oﬀering comfortable rooms and easy access to the beach and city center. The modern amenities and convenient location make it a great choice for budget-conscious travelers. • Hotel de la Paix (Marseille): A budget-friendly hotel oﬀering simple, clean rooms and a convenient location near the Old Port. The friendly staﬀ and aﬀordable rates make it a good option for travelers on a budget. • Hotel du Palais (Montpellier): A budget-friendly hotel located in the heart of Montpellier, oﬀering comfortable rooms and easy access to the city's attractions. The artistic decor and central location make it a popular choice. • Hotel de la Mer (Nice): A budget-friendly hotel oﬀering comfortable rooms and easy access to the beach and city center. The modern amenities and convenient location make it a great choice for budget-conscious travelers. • Hotel de la Plage (Marseille): A budget-friendly hotel oﬀering simple, clean rooms and a convenient",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "Comprehensive Guide to Restaurants and Hotels in the South of France \nIntroduction \nThe South of France, known for its stunning landscapes, rich cultural heritage, and exquisite \ncuisine, is a dream destination for travelers. From the glamorous beaches of the French \nRiviera to the charming villages of Provence, this region oﬀers a diverse array of experiences. \nWhether you're looking for budget-friendly options, family-friendly spots, upscale dining, or \nluxurious experiences, this guide will help you find the perfect restaurants and hotels for your \ntrip.",
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "Conclusion \nThe South of France oﬀers a wide range of dining and accommodation options to suit every \nbudget and preference. Whether you're looking for budget-friendly eateries, family-friendly \nspots, upscale dining, or luxurious experiences, this guide will help you find the perfect places \nto eat and stay during your trip. From the vibrant cities of Nice and Marseille to the charming \nvillages of Provence, the South of France promises an unforgettable travel experience. Bon \nvoyage!",
+      "page_number": 14
+    }
+  ]
+}
