@@ -54,7 +54,7 @@ docker run --rm -v "${PWD}/input:/app/input" -v "${PWD}/output:/app/output" pdf-
 
 Inspect the `output/` directory for JSON files with your customized document insights.
 
-## ????️ System Architecture
+## System Architecture
 
 ```
 Input PDFs → Document Parser → Section Extractor → Embedding Engine → Relevance Ranker → Text Refiner → JSON Output
@@ -104,7 +104,7 @@ Input PDFs → Document Parser → Section Extractor → Embedding Engine → Re
 }
 ```
 
-## ????️ Technical Details
+## Technical Details
 
 ### Performance Optimizations
 
@@ -123,10 +123,10 @@ Input PDFs → Document Parser → Section Extractor → Embedding Engine → Re
 
 ### Sample Personas
 
-- **????‍???? Research Scientist**: Methodology and experimental design oriented
-- **???? Business Analyst**: Focuses on metrics, trends, and strategic information
-- **???? Graduate Student**: Wants basic knowledge and essential concepts
-- **???? Executive**: Needs top-level summaries and decision-making information
+- ** Research Scientist**: Methodology and experimental design oriented
+- ** Business Analyst**: Focuses on metrics, trends, and strategic information
+- ** Graduate Student**: Wants basic knowledge and essential concepts
+- ** Executive**: Needs top-level summaries and decision-making information
 
 ## Project Structure
 
@@ -134,14 +134,14 @@ Input PDFs → Document Parser → Section Extractor → Embedding Engine → Re
 project-root/
 ├── Dockerfile # Container setup
 ```
-├── ???? requirements.txt # Python package dependencies
-├── ???? process_documents.py # Processing engine
-├── ???? persona_job.txt # Persona and job details
-├── ???? schema/
+├── requirements.txt # Python package dependencies
+├── process_documents.py # Processing engine
+├── persona_job.txt # Persona and job details
+├── schema/
 │ └── challenge1b_output_schema.json # Validation schema for output
-├── ???? input/ # Place PDF documents here
-├── ???? output/ # Generated JSON outputs
-└── ???? README.md # This file
+├── input/ # Place PDF documents here
+├── output/ # Generated JSON outputs
+└── README.md # This file
 ```
 
 ## Configuration Options
