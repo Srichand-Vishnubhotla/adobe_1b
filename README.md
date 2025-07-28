@@ -1,16 +1,16 @@
-## ???? Overview
+## Overview
 
 This answer solves the **Round 1B: Persona-Driven Document Intelligence Challenge**, developing an intelligent system that not only knows what information is present in documents, but *what matters* to a given user depending on their role and goals.
 
 ### What's So Special About It?
 
-- **???? Persona-Aware**: Adapts document analysis to the particular user role and level of expertise
-- **⚡ Fast & Efficient**: CPU-optimized processing done in less than 60 seconds
-- **???? Versatile**: Supports various document types ranging from research reports to business papers
-- **???? Self-Contained**: Completely offline Docker solution without any internet reliance
-- **???? Task-Focused**: Prioritizes content depending on specific job-to-be-done situations
+- ** Persona-Aware**: Adapts document analysis to the particular user role and level of expertise
+- ** Fast & Efficient**: CPU-optimized processing done in less than 60 seconds
+- ** Versatile**: Supports various document types ranging from research reports to business papers
+- ** Self-Contained**: Completely offline Docker solution without any internet reliance
+- ** Task-Focused**: Prioritizes content depending on specific job-to-be-done situations
 
-## ???? Quick Start
+## Quick Start
 
 ### Prerequisites
 
@@ -69,7 +69,7 @@ Input PDFs → Document Parser → Section Extractor → Embedding Engine → Re
 | **Relevance Ranker** | Cosine Similarity + Heuristics | Contextual content prioritization |
 | **Text Refiner** | Extractive Summarization | Concise, targeted content generation |
 
-## ???? Input & Output Specification
+## Input & Output Specification
 
 ### Input Requirements
 
@@ -128,11 +128,11 @@ Input PDFs → Document Parser → Section Extractor → Embedding Engine → Re
 - **???? Graduate Student**: Wants basic knowledge and essential concepts
 - **???? Executive**: Needs top-level summaries and decision-making information
 
-## ???? Project Structure
+## Project Structure
 
 ```
 project-root/
-├── ???? Dockerfile # Container setup
+├── Dockerfile # Container setup
 ```
 ├── ???? requirements.txt # Python package dependencies
 ├── ???? process_documents.py # Processing engine
@@ -144,7 +144,7 @@ project-root/
 └── ???? README.md # This file
 ```
 
-## ???? Configuration Options
+## Configuration Options
 
 ### Environment Variables
 
@@ -156,7 +156,7 @@ project-root/
 
 Custom output schemas can be supported by changing `schema/challenge1b_output_schema.json`.
 
-## ???? Troubleshooting
+## Troubleshooting
 
 ### Common Issues
 
@@ -178,7 +178,7 @@ docker system prune -f
 # Ensure documents are related to the specified domain
 ```
 
-## ???? Performance Benchmarks
+## Performance Benchmarks
 
 | Document Set Size | Processing Time | Memory Usage | Accuracy |
 |-------------------|-----------------|--------------|----------|
@@ -186,7 +186,7 @@ docker system prune -f
 | 6-8 documents | 35-45 seconds | 600-800 MB | 87-92% |
 | 9-10 documents | 50-60 seconds | 800MB-1GB | 85-90%
 
-## ???? Future Enhancements
+## Future Enhancements
 
 - [ ] **GPU Acceleration**: CUDA-enabled processing support
 - [ ] **Abstractive Summarization**: Higher-level text generation features
@@ -195,7 +195,7 @@ docker system prune -f
 - [ ] **Batch Processing**: Process multiple persona-job combinations
 - [ ] **Export Options**: PDF, Word, and PowerPoint output formats
 
-## ????️ System Requirements
+## System Requirements
 
 ### Minimum Requirements
 - **RAM**: 2GB available memory
@@ -209,7 +209,7 @@ docker system prune -f
 - **Storage**: 10GB+ free space
 - **OS**: Linux-based system for optimal performance
 
-## ???? Dependencies
+## Dependencies
 
 | Package | Version | Purpose |
 |---------|---------|---------|
@@ -220,7 +220,7 @@ docker system prune -f
 | jsonschema | 4.21.1 | Output validation and schema compliance |
 | numpy | 1.24.3 | Numerical computations and array operations |
 
-## ???? Contributing
+## Contributing
 
 We appreciate contributions! Please read our [Contributing Guidelines](CONTRIBUTING.md).
 
@@ -242,11 +242,11 @@ pip install -r requirements.txt
 # Test
 python -m pytest tests/
 
-## ???? License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## ???? Acknowledgments
+## Acknowledgments
 
 - Developed for the Round 1B: Persona-Driven Document Intelligence Challenge
 - Powered by Hugging Face Transformers and PyMuPDF
